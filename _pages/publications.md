@@ -12,7 +12,7 @@ My research interests lie in the field of empirical microeconomics, with a focus
 
 ### [Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market](https://stnavdeev.github.io/Avdeev_Bologna.pdf)
 
---- *Under review* (2023)
+*Under review* (2023) <br/>
 <details>
     <summary> Abstract </summary>
     <br>
