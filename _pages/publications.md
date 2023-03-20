@@ -27,6 +27,8 @@ The Bologna reform, the largest European education reform, was implemented in Ru
 
 with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
 
+### The Consequences of Gender Bias in Doctor Decision Making
+
 ### Does a Cum Laude Degree Matter?
 
 ## Pre-PhD Publications
