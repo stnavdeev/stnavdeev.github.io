@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Stanislav Avdeev"
 title_separator          : "-"
-name                     : &name "Stanislav Avdeev"
+name                     : &name "Stanislav Avdeev" 
 description              : &description "personal description"
 url                      : https://stnavdeev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
