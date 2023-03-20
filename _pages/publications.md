@@ -15,79 +15,13 @@ My research interests lie in the field of empirical microeconomics, with a focus
 
 *Under review* (2023)
 
-<!-- Collapsible Sections -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 10px;">
-    <details id="section1" style="box-sizing: border-box;" onclick="toggleContent('section1')">
-        <summary>Section 1</summary>
-        <br>
-        <p style="display: none; position: absolute; width: 100%;">
-The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference–in–differences design, I find that the reform had no short– or medium–term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity: while female graduates’ wages remained unaffected, male graduates experienced a wage decline. To explain these findings, I propose a novel model of students’ decision–making that predicts students with high (low) relative returns to education compared to returns to working would invest more (less) time in studying. Consistent with the model, I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, leading to a decline in wages. These intriguing findings shed light on the heterogeneous impact of educational reforms and the role of students’ decision–making in shaping labor market outcomes, inviting further exploration of similar reforms across different contexts.
-        </p>
-    </details>
-
-    <details id="section2" style="box-sizing: border-box;" onclick="toggleContent('section2')">
-        <summary>Section 2</summary>
-        <br>
-        <p style="display: none; position: absolute; width: 100%;">
-The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference–in–differences design, I find that the reform had no short– or medium–term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity: while female graduates’ wages remained unaffected, male graduates experienced a wage decline. To explain these findings, I propose a novel model of students’ decision–making that predicts students with high (low) relative returns to education compared to returns to working would invest more (less) time in studying. Consistent with the model, I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, leading to a decline in wages. These intriguing findings shed light on the heterogeneous impact of educational reforms and the role of students’ decision–making in shaping labor market outcomes, inviting further exploration of similar reforms across different contexts.
-        </p>
-    </details>
-
-    <details id="section3" style="box-sizing: border-box;" onclick="toggleContent('section3')">
-        <summary>Section 3</summary>
-        <br>
-        <p style="display: none; position: absolute; width: 100%;">
-            Text for section 3.
-        </p>
-    </details>
-</div>
-
-<script>
-    function toggleContent(sectionId) {
-        const section = document.getElementById(sectionId);
-        const content = section.querySelector('p');
-
-        if (content.style.display === 'none') {
-            content.style.display = 'block';
-            section.style.width = '100%';
-        } else {
-            content.style.display = 'none';
-            section.style.width = '';
-        }
-    }
-</script>
-
-
-
-
-<!-- Collapsible Sections -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 1px;">
-
-<details style="box-sizing: border-box;">
-    <summary>Section 1</summary>
+<details>
+    <summary> Abstract </summary>
     <br>
-    <p align="justify">
+    <p align="justify">  
 The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference–in–differences design, I find that the reform had no short– or medium–term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity: while female graduates’ wages remained unaffected, male graduates experienced a wage decline. To explain these findings, I propose a novel model of students’ decision–making that predicts students with high (low) relative returns to education compared to returns to working would invest more (less) time in studying. Consistent with the model, I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, leading to a decline in wages. These intriguing findings shed light on the heterogeneous impact of educational reforms and the role of students’ decision–making in shaping labor market outcomes, inviting further exploration of similar reforms across different contexts.
-    </p>
-</details>
-
-<details style="box-sizing: border-box;">
-    <summary>Section 2</summary>
-    <br>
-    <p>
-        Text for section 2.
-    </p>
-</details>
-
-<details style="box-sizing: border-box;">
-    <summary>Section 3</summary>
-    <br>
-    <p>
-        Text for section 3.
-    </p>
-</details>
-
-</div>
+     </p>
+     </details> 
 
 ## Work in Progress
 
