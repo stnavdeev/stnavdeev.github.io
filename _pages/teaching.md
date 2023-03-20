@@ -10,7 +10,7 @@ My teaching interests primarily lie in the field of econometrics, which involves
 
 **Econometrics II** (graduate)
 
-[GitHub](https://github.com/stnavdeev/econometrics)
+[[GitHub]](https://github.com/stnavdeev/econometrics)
 
 ## University of Amsterdam
 
