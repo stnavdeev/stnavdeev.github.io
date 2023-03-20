@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /research/
 title: "Research"
 author_profile: true
 ---
