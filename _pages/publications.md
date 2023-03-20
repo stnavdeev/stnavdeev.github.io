@@ -21,6 +21,15 @@ My research interests lie in the field of empirical microeconomics, with a focus
 The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference–in–differences design, I find that the reform had no short– or medium–term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity: while female graduates’ wages remained unaffected, male graduates experienced a wage decline. To explain these findings, I propose a novel model of students’ decision–making that predicts students with high (low) relative returns to education compared to returns to working would invest more (less) time in studying. Consistent with the model, I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, leading to a decline in wages. These intriguing findings shed light on the heterogeneous impact of educational reforms and the role of students’ decision–making in shaping labor market outcomes, inviting further exploration of similar reforms across different contexts.
      </p>
      </details> 
+<details>
+    <summary> Media Coverage </summary>
+    <br>
+    <p align="justify">  
+In English: IQ.hse
+        
+In Russian: IQ.hse, ИНИД
+     </p>
+     </details> 
 
 ## Work in Progress
 
