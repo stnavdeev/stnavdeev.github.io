@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me 
+## About
 
 I am an empirical microeconomist with an interest in the economics of education, labor and health economics. I use quasi-experimental methods to estimate the effects of policy reforms using administrative and survey data.   
 
