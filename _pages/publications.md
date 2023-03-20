@@ -14,6 +14,40 @@ My research interests lie in the field of empirical microeconomics, with a focus
 
 *Under review* (2023)
 
+---
+title: Your Page Title
+layout: default
+---
+
+{% raw %}
+<div class="container">
+    <details>
+        <summary>Section 1</summary>
+        <br>
+        <p>
+            Text for section 1.
+        </p>
+    </details>
+
+    <details>
+        <summary>Section 2</summary>
+        <br>
+        <p>
+            Text for section 2.
+        </p>
+    </details>
+
+    <details>
+        <summary>Section 3</summary>
+        <br>
+        <p>
+            Text for section 3.
+        </p>
+    </details>
+</div>
+{% endraw %}
+
+
 <details>
     <summary> Abstract </summary>
     <br>
