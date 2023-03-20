@@ -12,9 +12,8 @@ My research interests lie in the field of empirical microeconomics, with a focus
 
 ### [Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market](https://stnavdeev.github.io/Avdeev_Bologna.pdf)
 
-- **Under review** (2023)
-- [[Working paper]](https://stnavdeev.github.io/Avdeev_Bologna.pdf)
-- <details>
+*Under review* (2023)
+<details>
     <summary> Abstract </summary>
     <br>
     <p align="justify">  
@@ -34,8 +33,7 @@ with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
 
 ### [International Collaboration in Higher Education Research: A Gravity Model Approach](https://stnavdeev.github.io/Avdeev_Collaboration.pdf)
 
-- **Scientometrics** (2021)
-- [[Slides]](https://stnavdeev.github.io/Avdeev_Collaboration_Presentation.pdf)
+- *Scientometrics* (2021)
 - <details>
     <summary> Abstract </summary>
     <br>
