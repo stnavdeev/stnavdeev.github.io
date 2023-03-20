@@ -22,7 +22,7 @@ My research interests lie in the field of empirical microeconomics, with a focus
     <summary>Section 1</summary>
     <br>
     <p>
-        Text for section 1.
+        Text 
     </p>
 </details>
 
