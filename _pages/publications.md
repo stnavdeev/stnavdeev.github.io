@@ -4,6 +4,8 @@ title: "Research"
 author_profile: true
 ---
 
+My research interests lie in the field of empirical microeconomics, with a focus on the economics of education, labor, and health. To estimate the impact of policy reforms in these areas, I use quasi-experimental methods that leverage administrative and survey data. This approach allows me to gain insights into the effects of policy changes in real-world settings, and to identify the causal mechanisms behind these effects. By studying these important areas of economics, I hope to contribute to the development of evidence-based policies that can improve outcomes for individuals and society as a whole.
+
 ## Working papers 
 
 ### [Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market](https://stnavdeev.github.io/Avdeev_Bologna.pdf)
