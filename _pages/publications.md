@@ -2,6 +2,9 @@
 permalink: /research/
 title: "Research"
 author_profile: true
+footer details {
+  display: inline-block;
+}
 ---
 
 <p align="justify">  
