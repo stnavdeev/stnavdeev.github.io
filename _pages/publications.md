@@ -16,17 +16,17 @@ My research interests lie in the field of empirical microeconomics, with a focus
 *Under review* (2023)
 
 <!-- Collapsible Sections -->
-<div style="display: flex; justify-content: space-around; flex-wrap: nowrap;">
+<div style="display: flex; flex-wrap: nowrap;">
 
-<details style="width: calc(100% / 3 - 2px); margin-right: 2px; box-sizing: border-box;">
+<details style="flex-grow: 1; box-sizing: border-box;">
     <summary>Section 1</summary>
     <br>
     <p>
-        Text 
+        Text for section 1.
     </p>
 </details>
 
-<details style="width: calc(100% / 3 - 4px); margin-right: 2px; box-sizing: border-box;">
+<details style="flex-grow: 1; box-sizing: border-box;">
     <summary>Section 2</summary>
     <br>
     <p>
@@ -34,7 +34,7 @@ My research interests lie in the field of empirical microeconomics, with a focus
     </p>
 </details>
 
-<details style="width: calc(100% / 3 - 2px); margin-right: 0; box-sizing: border-box;">
+<details style="flex-grow: 1; box-sizing: border-box;">
     <summary>Section 3</summary>
     <br>
     <p>
@@ -43,6 +43,7 @@ My research interests lie in the field of empirical microeconomics, with a focus
 </details>
 
 </div>
+
 
 
 
