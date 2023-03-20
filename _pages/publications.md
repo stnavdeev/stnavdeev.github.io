@@ -2,7 +2,6 @@
 permalink: /research/
 title: "Research"
 author_profile: true
-css: /collapsible_sections.css
 
 ---
 
@@ -16,33 +15,33 @@ My research interests lie in the field of empirical microeconomics, with a focus
 
 *Under review* (2023)
 
-{% raw %}
-<div class="container">
-    <details>
-        <summary>Section 1</summary>
-        <br>
-        <p>
-            Text for section 1.
-        </p>
-    </details>
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
 
-    <details>
-        <summary>Section 2</summary>
-        <br>
-        <p>
-            Text for section 2.
-        </p>
-    </details>
+<details style="width: calc(100% / 3 - 10px); margin-right: 10px; box-sizing: border-box;">
+    <summary>Section 1</summary>
+    <br>
+    <p>
+        Text for section 1.
+    </p>
+</details>
 
-    <details>
-        <summary>Section 3</summary>
-        <br>
-        <p>
-            Text for section 3.
-        </p>
-    </details>
+<details style="width: calc(100% / 3 - 10px); margin-right: 10px; box-sizing: border-box;">
+    <summary>Section 2</summary>
+    <br>
+    <p>
+        Text for section 2.
+    </p>
+</details>
+
+<details style="width: calc(100% / 3 - 10px); margin-right: 0; box-sizing: border-box;">
+    <summary>Section 3</summary>
+    <br>
+    <p>
+        Text for section 3.
+    </p>
+</details>
+
 </div>
-{% endraw %}
 
 
 <details>
