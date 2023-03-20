@@ -10,7 +10,7 @@ My teaching interests primarily lie in the field of econometrics, which involves
 
 ## Tinbergen Institute
 
-- **Econometrics II** (graduate) [[GitHub]](https://github.com/stnavdeev/econometrics)
+- **Econometrics II** - [GitHub](https://github.com/stnavdeev/econometrics) (graduate)
 
 ## University of Amsterdam
 
