@@ -14,7 +14,6 @@ My research interests lie in the field of empirical microeconomics, with a focus
 
 *Under review* (2023)
 <footer>
-        <P>Kontakta mig på följande sätt</P>
         <details>
             <summary>Mail</summary>
             <p>Bla bla bla</p>
