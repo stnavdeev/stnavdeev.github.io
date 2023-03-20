@@ -2,6 +2,8 @@
 permalink: /research/
 title: "Research"
 author_profile: true
+css: /collapsible_sections.css
+
 ---
 
 <p align="justify">  
@@ -13,11 +15,6 @@ My research interests lie in the field of empirical microeconomics, with a focus
 ### [Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market](https://stnavdeev.github.io/Avdeev_Bologna.pdf)
 
 *Under review* (2023)
-
----
-title: Your Page Title
-layout: default
----
 
 {% raw %}
 <div class="container">
