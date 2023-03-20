@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "stnavdeev@gmail.com"
+    email                : 
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=x3DcAjcAAAAJ&view_op=list_works&gmla=AJsN-F4DdDk33CNdv33Jn7owyyj1VmjJmvi2Nu-IeYa953bnWwBKG8viZ7BUUfKKH6PjgnYaWdqY0cnHhPjKBEPDfybuJqzTZk-bR19WHwFDCTRVqPjZCNg"
-  email            :
+  email            : "stnavdeev@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
