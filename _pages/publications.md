@@ -33,8 +33,8 @@ with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
 
 ### [International Collaboration in Higher Education Research: A Gravity Model Approach](https://stnavdeev.github.io/Avdeev_Collaboration.pdf)
 
-- *Scientometrics* (2021)
-- <details>
+*Scientometrics* (2021)
+<details>
     <summary> Abstract </summary>
     <br>
     <p align="justify">  
