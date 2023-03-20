@@ -1,8 +1,10 @@
 ---
 permalink: /publications/
-title: "Working papers"
+title: "Research"
 author_profile: true
 ---
+
+## Working papers 
 
 [Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market](https://stnavdeev.github.io/Avdeev_Bologna.pdf)
 
