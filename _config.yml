@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "stnavdeev@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -85,8 +85,8 @@ author:
   bio              : "PhD Candidate in Economics. Empirical microeconomist"
   location         : "Amsterdam, the Netherlands"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=x3DcAjcAAAAJ&view_op=list_works&gmla=AJsN-F4DdDk33CNdv33Jn7owyyj1VmjJmvi2Nu-IeYa953bnWwBKG8viZ7BUUfKKH6PjgnYaWdqY0cnHhPjKBEPDfybuJqzTZk-bR19WHwFDCTRVqPjZCNg"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "stnavdeev"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "stnavdeev"
   vine             :
   weibo            :
   xing             :
