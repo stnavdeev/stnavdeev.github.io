@@ -1,4 +1,14 @@
-# About me 
+---
+permalink: /
+title: #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+## About me 
 
 I am an empirical microeconomist with an interest in the economics of education, labor and health economics. I use quasi-experimental methods to estimate the effects of policy reforms using administrative and survey data.   
 
