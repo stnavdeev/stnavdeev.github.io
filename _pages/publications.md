@@ -16,7 +16,7 @@ My research interests lie in the field of empirical microeconomics, with a focus
 *Under review* (2023)
 
 <!-- Collapsible Sections -->
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 1px;">
 
 <details style="box-sizing: border-box;">
     <summary>Section 1</summary>
