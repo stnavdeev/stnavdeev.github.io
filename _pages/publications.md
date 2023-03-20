@@ -16,6 +16,51 @@ My research interests lie in the field of empirical microeconomics, with a focus
 *Under review* (2023)
 
 <!-- Collapsible Sections -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 10px;">
+    <details id="section1" style="box-sizing: border-box;" onclick="toggleContent('section1')">
+        <summary>Section 1</summary>
+        <br>
+        <p style="display: none; position: absolute; width: 100%;">
+            Text for section 1.
+        </p>
+    </details>
+
+    <details id="section2" style="box-sizing: border-box;" onclick="toggleContent('section2')">
+        <summary>Section 2</summary>
+        <br>
+        <p style="display: none; position: absolute; width: 100%;">
+            Text for section 2.
+        </p>
+    </details>
+
+    <details id="section3" style="box-sizing: border-box;" onclick="toggleContent('section3')">
+        <summary>Section 3</summary>
+        <br>
+        <p style="display: none; position: absolute; width: 100%;">
+            Text for section 3.
+        </p>
+    </details>
+</div>
+
+<script>
+    function toggleContent(sectionId) {
+        const section = document.getElementById(sectionId);
+        const content = section.querySelector('p');
+
+        if (content.style.display === 'none') {
+            content.style.display = 'block';
+            section.style.width = '100%';
+        } else {
+            content.style.display = 'none';
+            section.style.width = '';
+        }
+    }
+</script>
+
+
+
+
+<!-- Collapsible Sections -->
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); column-gap: 1px;">
 
 <details style="box-sizing: border-box;">
