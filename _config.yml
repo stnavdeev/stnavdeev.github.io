@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Stanislav Avdeev"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Stanislav Avdeev"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Stanislav Avdeev"
+  avatar           : "Avdeev.jpg"
+  bio              : "PhD Candidate in Economics. Empirical microeconomist"
+  location         : "Amsterdam, the Netherlands"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
