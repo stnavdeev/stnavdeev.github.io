@@ -25,9 +25,9 @@ The Bologna reform, the largest European education reform, was implemented in Ru
 
 ## Work in Progress
 
-### Spillovers on Study Choices: Siblings, Cousins, and Neighbors
+    **Spillovers on Study Choices: Siblings, Cousins, and Neighbors**
 
-with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
+    with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
 
 ### The Consequences of Gender Bias in Doctor Decision Making
 
