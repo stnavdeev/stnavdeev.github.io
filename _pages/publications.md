@@ -11,10 +11,21 @@ My research interests lie in the field of empirical microeconomics, with a focus
 
 ## Working Papers 
 
-<div style="padding-left: 20px;">
-<h3><a href="[https://stnavdeev.github.io/Avdeev_Bologna.pdf](https://stnavdeev.github.io/Avdeev_Bologna.pdf)">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
-<br>
+### [Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market](https://stnavdeev.github.io/Avdeev_Bologna.pdf)
+
 *Under review* (2023)
+<details>
+    <summary> Abstract </summary>
+    <br>
+    <p align="justify">  
+The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference–in–differences design, I find that the reform had no short– or medium–term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity: while female graduates’ wages remained unaffected, male graduates experienced a wage decline. To explain these findings, I propose a novel model of students’ decision–making that predicts students with high (low) relative returns to education compared to returns to working would invest more (less) time in studying. Consistent with the model, I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, leading to a decline in wages. These intriguing findings shed light on the heterogeneous impact of educational reforms and the role of students’ decision–making in shaping labor market outcomes, inviting further exploration of similar reforms across different contexts.
+     </p>
+     </details> 
+
+<div style="padding-left: 20px; line-height: 1.2;">
+<h3><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
+<br>
+<em>Under review</em> (2023)
 <br>
 <details>
     <summary> Abstract </summary>
@@ -27,7 +38,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
 
 ## Work in Progress
 
-<div style="padding-left: 20px;">
+<div style="padding-left: 20px; line-height: 1.2;">
 <h3>Spillovers on Study Choices: Siblings, Cousins, and Neighbors</h3>
 <br>
 with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
@@ -39,10 +50,10 @@ with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
 
 ## Pre-PhD Publications
 
-<div style="padding-left: 20px;">
-<h3><a href="[https://stnavdeev.github.io/Avdeev_Bologna.pdf](https://stnavdeev.github.io/Avdeev_Bologna.pdf)">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+<div style="padding-left: 20px; line-height: 1.2;">
+<h3><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
 <br>
-*Scientometrics* (2021)
+<em>Scientometrics</em> (2021)
 <br>
 <details>
     <summary> Abstract </summary>
