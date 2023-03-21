@@ -26,8 +26,10 @@ The Bologna reform, the largest European education reform, was implemented in Ru
 ## Work in Progress
 
 <div style="padding-left: 20px;">
-**Spillovers on Study Choices: Siblings, Cousins, and Neighbors**
-
+### Spillovers on Study Choices: Siblings, Cousins, and Neighbors
+<br>
+<strong>Spillovers on Study Choices: Siblings, Cousins, and Neighbors</strong>
+<br>
 with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw
 </div>
 
