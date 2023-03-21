@@ -1,6 +1,23 @@
 ---
 layout: compress
 ---
+<style>
+  .expandable-content {
+    display: none;
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.expandable-button').forEach(button => {
+      button.addEventListener('click', event => {
+        const targetContentId = event.target.getAttribute('data-target');
+        const targetContent = document.getElementById(targetContentId);
+        targetContent.style.display = targetContent.style.display === 'block' ? 'none' : 'block';
+      });
+    });
+  });
+</script>
+
 
 <link rel="stylesheet" href="{{ page.css }}">
 
