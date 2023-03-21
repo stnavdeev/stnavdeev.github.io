@@ -22,8 +22,8 @@ The Bologna reform, the largest European education reform, was implemented in Ru
      </p>
      </details> 
 
-<div style="padding-left: 20px; line-height: 1.2;"> 
-  <h3><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
+<div style="padding-left: 20px;"> 
+  <h3 style="margin-bottom: 0;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
   <p style="margin-bottom: 0;">Under review</p>
   <details>
       <summary> Abstract </summary>
