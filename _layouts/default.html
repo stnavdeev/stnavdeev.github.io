@@ -2,21 +2,39 @@
 layout: compress
 ---
 <style>
-  .expandable-content {
+  details {
+    font-size: 16px;
+  }
+
+  summary {
+    list-style: none;
+    outline: none;
+    cursor: pointer;
+  }
+
+  summary::-webkit-details-marker {
     display: none;
   }
+
+  summary::before {
+    content: "▶";
+    display: inline-block;
+    margin-right: 6px;
+    transform-origin: 50% 50%;
+    transition: transform 0.2s ease;
+  }
+
+  details[open] > summary::before {
+    transform: rotate(90deg);
+  }
 </style>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    document.querySelectorAll('.expandable-button').forEach(button => {
-      button.addEventListener('click', event => {
-        const targetContentId = event.target.getAttribute('data-target');
-        const targetContent = document.getElementById(targetContentId);
-        targetContent.style.display = targetContent.style.display === 'block' ? 'none' : 'block';
-      });
-    });
-  });
-</script>
+
+<details>
+  <summary>Click to expand or collapse</summary>
+  <div class="expandable-content">
+    Your expandable content goes here...
+  </div>
+</details>
 
 
 <link rel="stylesheet" href="{{ page.css }}">
