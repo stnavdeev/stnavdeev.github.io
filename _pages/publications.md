@@ -34,7 +34,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
 ## Pre-PhD Publications
 
 <div style="padding-left: 20px;"> 
-  <h3 style="margin-bottom: 5px;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <h3 style="margin-bottom: 5px;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0;"><em>Scientometrics</em> (2021)</p>
   <details>
       <summary> Abstract </summary>
