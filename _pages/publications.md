@@ -26,22 +26,18 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   <h3 style="margin-bottom: 5px;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
   <p style="margin-bottom: 0;"><em>Under review</em> (2023)</p>
   <div>
-    <details>
-      <summary>
-        <span style="display: inline-block; width: 100px;">Abstract</span>
-        <span style="display: inline-block; width: 100px;">Additional Button</span>
-      </summary>
-      <div style="position: absolute;">
-        <p align="justify">
-          The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference–in–differences design, I find that the reform had no short– or medium–term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity: while female graduates’ wages remained unaffected, male graduates experienced a wage decline. To explain these findings, I propose a novel model of students’ decision–making that predicts students with high (low) relative returns to education compared to returns to working would invest more (less) time in studying. Consistent with the model, I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, leading to a decline in wages. These intriguing findings shed light on the heterogeneous impact of educational reforms and the role of students’ decision–making in shaping labor market outcomes, inviting further exploration of similar reforms across different contexts.
-        </p>
-      </div>
-      <div style="position: absolute; display: none;">
-        <p align="justify">
-          Insert the content you want to show when the additional button is clicked here. Make sure to use the "align" attribute with the value "justify" to ensure the text fits the width of the page.
-        </p>
-      </div>
-    </details>
+    <button class="expandable-button" data-target="abstract-content">Abstract</button>
+    <button class="expandable-button" data-target="additional-content">Additional Button</button>
+    <div id="abstract-content" class="expandable-content">
+      <p align="justify">
+        The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference–in–differences design, I find that the reform had no short– or medium–term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity: while female graduates’ wages remained unaffected, male graduates experienced a wage decline. To explain these findings, I propose a novel model of students’ decision–making that predicts students with high (low) relative returns to education compared to returns to working would invest more (less) time in studying. Consistent with the model, I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, leading to a decline in wages. These intriguing findings shed light on the heterogeneous impact of educational reforms and the role of students’ decision–making in shaping labor market outcomes, inviting further exploration of similar reforms across different contexts.
+      </p>
+    </div>
+    <div id="additional-content" class="expandable-content">
+      <p align="justify">
+        Insert the content you want to show when the additional button is clicked here. Make sure to use the "align" attribute with the value "justify" to ensure the text fits the width of the page.
+      </p>
+    </div>
   </div>
 </div>
 
