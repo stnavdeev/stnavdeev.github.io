@@ -1,40 +1,55 @@
 ---
 layout: compress
 ---
+## Expandable Arrow Example
+
+<div>
+    <div class="expandable-arrow" data-target="expandableContent">Click to expand or collapse</div>
+    <div id="expandableContent" class="expandable-content" style="display: none;">
+        Your expandable content goes here...
+    </div>
+</div>
+
 <style>
-  details {
-    font-size: 16px;
-  }
+    .expandable-content {
+        font-size: 16px;
+    }
 
-  summary {
-    list-style: none;
-    outline: none;
-    cursor: pointer;
-  }
+    .expandable-arrow {
+        cursor: pointer;
+        display: inline-block;
+        font-size: 16px;
+        user-select: none;
+    }
 
-  summary::-webkit-details-marker {
-    display: none;
-  }
+    .expandable-arrow::before {
+        content: "▶";
+        display: inline-block;
+        margin-right: 6px;
+        transform-origin: 50% 50%;
+        transition: transform 0.2s ease;
+    }
 
-  summary::before {
-    content: "▶";
-    display: inline-block;
-    margin-right: 6px;
-    transform-origin: 50% 50%;
-    transition: transform 0.2s ease;
-  }
+    .expanded .expandable-content {
+        display: block;
+    }
 
-  details[open] > summary::before {
-    transform: rotate(90deg);
-  }
+    .expanded .expandable-arrow::before {
+        transform: rotate(90deg);
+    }
 </style>
 
-<details>
-  <summary>Click to expand or collapse</summary>
-  <div class="expandable-content">
-    Your expandable content goes here...
-  </div>
-</details>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('.expandable-arrow').forEach(arrow => {
+            arrow.addEventListener('click', event => {
+                const targetContentId = event.target.getAttribute('data-target');
+                const targetContent = document.getElementById(targetContentId);
+                event.target.parentElement.classList.toggle('expanded');
+            });
+        });
+    });
+</script>
 
 
 <link rel="stylesheet" href="{{ page.css }}">
