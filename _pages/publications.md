@@ -12,7 +12,7 @@ My research interests lie in the field of empirical microeconomics, with a focus
 ## Working Papers 
 
 <div style="padding-left: 30px;"> 
-  <h3 style="margin-bottom: 5px;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
+  <h3 style="margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
   <p style="margin-bottom: 0;"><em>Under review</em> (2023)</p>
   <details>
       <summary> Abstract </summary>
@@ -34,7 +34,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
 ## Pre-PhD Publications
 
 <div style="padding-left: 30px;"> 
-  <h3 style="margin-bottom: 5px;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <h3 style="margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0;"><em>Scientometrics</em> (2021)</p>
   <details>
       <summary> Abstract </summary>
