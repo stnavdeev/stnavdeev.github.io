@@ -18,4 +18,5 @@ I am a PhD candidate in Economics at the University of Amsterdam and VU Amsterda
 ## Upcoming conferences
 
 - [European Society for Population Economics Conference](https://www.espe.org), Belgrade, Serbia, 15-17 June
+- [International Workshop on Applied Economics of Education](https://www.iwaee.org/home/), Catanzaro, Italy, 18-20 June
 - [European Association of Labour Economists Conference](https://eale2023prague.eu), Prague, Czech Republic, 21-23 September
