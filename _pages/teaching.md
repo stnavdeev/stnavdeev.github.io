@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <p align="justify">  
-My teaching interests primarily lie in the field of econometrics, which involves applying statistical methods to economic data. I believe in using a practical approach to teaching, where students simulate data sets with known data generating processes. This helps students understand how different methods of analysis yield different estimates, and develops their intuition about the subject.
+My teaching interests primarily lie in the field of econometrics. I believe in using a practical approach to teaching, where students simulate data sets with known data generating processes. This helps students understand how different methods of analysis yield different estimates, and develops their intuition about the subject.
 </p>
 
 ## Tinbergen Institute
