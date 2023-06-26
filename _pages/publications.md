@@ -17,7 +17,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
   <details>
       <summary> Abstract </summary>
       <p align="justify">  
-The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns studied more intensively, optimally investing in their human capital and securing stable wages. In contrast, male students with low relative returns underinvested in their human capital, experiencing a decline in wages.
+The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns studied more intensively, optimally invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
        </p>
   </details>
  </div>
