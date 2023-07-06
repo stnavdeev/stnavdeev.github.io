@@ -17,4 +17,5 @@ I am an empirical microeconomist with an interest in the economics of education 
 
 ## Upcoming conferences
 
+- <a href="https://www.crctr224.de/events/summer-schools" style="color: black;">Summer School on 21st Century Applied Micro: Theory and Applications</a>, Annweiler, Germany, 7-11 August
 - <a href="https://eale2023prague.eu" style="color: black;">Conference of the European Association of Labour Economists</a>, Prague, Czech Republic, 21-23 September
