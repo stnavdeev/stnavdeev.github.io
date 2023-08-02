@@ -14,7 +14,8 @@ My teaching interests primarily lie in the field of econometrics. I believe in u
 
 ## University of Amsterdam
 
-- Applied Econometrics (undergraduate)
+- Applied Econometrics (undergraduate and graduate)
+- Theses Supervision (undergraduate)
 - Economics (undergraduate)
 
 ## Higher School of Economics
