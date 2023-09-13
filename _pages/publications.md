@@ -26,7 +26,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
 
 <div style="padding-left: 30px;"> 
   <h3 style="margin-bottom: 5px;">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</h3>
-  <p style="margin-bottom: 0;">with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a></p>
+  <p style="margin-bottom: 0;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), <em>under review</em>em>, 2023</p>
 <h3>Doctor Quality and Patients' Health and Labor Outcomes</h3>
  </div>
 
