@@ -34,7 +34,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
 
 <div style="padding-left: 30px;"> 
 
-  <h3 style="color: #0000EE;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
+  <h3 style="color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
 </div>
 
 ## Pre-PhD Publications
