@@ -12,7 +12,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
 <h2 style="font-weight: normal;">Working Papers</h2>
 
 <div style="padding-left: 0px;"> 
-  <h3 style="margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
+  <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;">R&R at <b><i>Oxford Bulletin of Economics and Statistics</i></b> (2023)</p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
@@ -20,7 +20,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
 The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns studied more intensively, optimally invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
        </p>
   </details>
-  <h3 style="margin-top: 0; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
+  <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2023</p>
     <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
@@ -34,13 +34,13 @@ We use admission lotteries for higher education studies in the Netherlands to in
 
 <div style="padding-left: 0px;"> 
 
-  <h3 style="color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
+  <h3 style="margin-top: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
 </div>
 
 <h2 style="font-weight: normal;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
-  <h3 style="margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b> (2021)</p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
