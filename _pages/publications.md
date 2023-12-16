@@ -24,7 +24,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2023</p>
     <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
-      <p align="justify">  
+      <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
 We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings contrast with those of recent studies based on admission thresholds, which find no sibling spillovers on field of study (major) choices. Because we also find spillovers from lottery participants at the lower end of the ability distribution, the contrasting findings cannot be attributed to the different research designs (leveraging admission lotteries versus admission thresholds). We believe that the different findings are due to the small differences in quality between universities in the Netherlands, making differences in the prestige of fields of study more prominent.
        </p>
   </details>
@@ -44,7 +44,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b> (2021)</p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
-      <p align="justify">  
+      <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
 Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
        </p>
   </details>
