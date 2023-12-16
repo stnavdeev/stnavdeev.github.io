@@ -16,7 +16,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
   <p style="margin-bottom: 0; padding-left: 30px;">R&R at <b><i>Oxford Bulletin of Economics and Statistics</i></b> (2023)</p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
-      <p align="justify" style="padding-left: 30px;">  
+      <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
 The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programs by one year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. Further, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns studied more intensively, optimally invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
        </p>
   </details>
@@ -30,14 +30,14 @@ We use admission lotteries for higher education studies in the Netherlands to in
   </details>
  </div>
 
-## Work in Progress
+<h2 style="font-weight: normal;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
 
   <h3 style="color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
 </div>
 
-## Pre-PhD Publications
+<h2 style="font-weight: normal;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
   <h3 style="margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
