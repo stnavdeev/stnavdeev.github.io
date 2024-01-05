@@ -14,3 +14,6 @@ I am a PhD candidate in Economics at the University of Amsterdam. My advisors ar
 <p align="justify">
 I am an empirical microeconomist with an interest in the economics of education and health economics. I use quasi-experimental methods to estimate the effects of policy reforms using administrative and survey data.
 </p>
+
+<h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
+- [Workshop on the Economics of Human Capital](https://www.economia.unipd.it/en/workshop-economics-human-capital), 14-15 March, Padua, Italy
