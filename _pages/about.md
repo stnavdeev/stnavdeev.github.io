@@ -17,3 +17,4 @@ I am an empirical microeconomist with an interest in the economics of education 
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
 - [Workshop on the Economics of Human Capital](https://www.economia.unipd.it/en/workshop-economics-human-capital), 14-15 March, Padua, Italy
+- [Leuven Economics of Education Research Conference (LEER)](https://feb.kuleuven.be/drc/LEER/map-leer-conference-2024/conference-leer-2024), 28-29 March, Leuven, Belgium
