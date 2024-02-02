@@ -13,7 +13,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
 
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
-  <p style="margin-bottom: 0; padding-left: 30px;">R&R at <b><i>Oxford Bulletin of Economics and Statistics</i></b> (2023)</p>
+  <p style="margin-bottom: 0; padding-left: 30px;">R&R at <b><i>Oxford Bulletin of Economics and Statistics</i></b> (2024)</p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
       <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
@@ -21,7 +21,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
        </p>
   </details>
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
-  <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2023</p>
+  <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2024</p>
     <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
       <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
