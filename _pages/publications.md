@@ -13,7 +13,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
 
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labor Market</a></h3>
-  <p style="margin-bottom: 0; padding-left: 30px;">R&R at <b><i>Oxford Bulletin of Economics and Statistics</i></b> (2024)</p>
+  <p style="margin-bottom: 0; padding-left: 30px;">Accepted at <b><i>Oxford Bulletin of Economics and Statistics</i></b> (2024)</p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
       <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
