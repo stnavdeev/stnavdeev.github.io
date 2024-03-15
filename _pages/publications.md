@@ -37,7 +37,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   <h3 style="margin-top: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
 </div>
 
-<h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Research</h2>
+<h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Papers</h2>
 
 <div style="padding-left: 00px;"> 
   <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
