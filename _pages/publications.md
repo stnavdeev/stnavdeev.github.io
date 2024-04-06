@@ -53,14 +53,6 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   </div>
 
 </div>
-
-<script>
-function toggleContent(contentId) {
-  var content = document.getElementById(contentId);
-  var isContentVisible = content.style.display === "block";
-  content.style.display = isContentVisible ? "none" : "block";
-}
-</script>
   
   <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b> (2021)</p>
@@ -71,3 +63,11 @@ Although geographical distance has become less relevant in co–authorship for m
        </p>
   </details>
  </div>
+
+ <script>
+function toggleContent(contentId) {
+  var content = document.getElementById(contentId);
+  var isContentVisible = content.style.display === "block";
+  content.style.display = isContentVisible ? "none" : "block";
+}
+</script>
