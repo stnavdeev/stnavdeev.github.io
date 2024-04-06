@@ -51,6 +51,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
       Here you can include any media related content such as videos, podcasts, or links to media appearances related to your research.
     </p>
   </div>
+  
  <script>
 function toggleContent(contentId) {
   var content = document.getElementById(contentId);
@@ -58,7 +59,6 @@ function toggleContent(contentId) {
   content.style.display = isContentVisible ? "none" : "block";
 }
 </script>
-</div>
   
   <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b> (2021)</p>
