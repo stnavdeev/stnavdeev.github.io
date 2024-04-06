@@ -17,8 +17,8 @@ My research interests lie in the field of empirical microeconomics with a focus 
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2024</p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; padding-left: 30px;">
-    <button style="background-color: transparent; border: none; color: blue; text-align: left; padding: 0; cursor: pointer;" onclick="toggleContent('abstractContent')">Abstract</button>
-    <button style="background-color: transparent; border: none; color: blue; text-align: left; padding: 0; cursor: pointer;" onclick="toggleContent('mediaContent')">Media</button>
+    <button style="color: black;" onclick="toggleContent('abstractContent')">Abstract</button>
+    <button style="color: black;" onclick="toggleContent('mediaContent')">Media</button>
   </div>
 
   <div id="abstractContent" style="display: none; padding-left: 30px;">
