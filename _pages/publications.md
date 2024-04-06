@@ -11,34 +11,23 @@ My research interests lie in the field of empirical microeconomics with a focus 
 
 <h2 style="margin-top: 30px; font-weight: normal;">Working Papers</h2>
 
-<style>
-.hidden-content {
-  display: none; /* Ensure content is initially hidden */
-  padding-left: 30px;
-}
-</style>
-
 <div style="padding-left: 0px;"> 
 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2024</p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; padding-left: 30px;">
-    <details>
-      <summary onclick="toggleContent('abstractContent')">Abstract</summary>
-    </details>
-    <details>
-      <summary onclick="toggleContent('mediaContent')">Media</summary>
-    </details>
+    <button onclick="toggleContent('abstractContent')">Abstract</button>
+    <button onclick="toggleContent('mediaContent')">Media</button>
   </div>
 
-  <div id="abstractContent" class="hidden-content">
+  <div id="abstractContent" style="display: none; padding-left: 30px;">
     <p align="justify">  
       We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
     </p>
   </div>
 
-  <div id="mediaContent" class="hidden-content">
+  <div id="mediaContent" style="display: none; padding-left: 30px;">
     <p align="justify">  
       Here you can include any media related content such as videos, podcasts, or links to media appearances related to your research.
     </p>
@@ -49,27 +38,10 @@ My research interests lie in the field of empirical microeconomics with a focus 
 <script>
 function toggleContent(contentId) {
   var content = document.getElementById(contentId);
-  // If the content is currently hidden, show it, otherwise hide it.
-  if (content.style.display === 'none' || content.style.display === '') {
-    content.style.display = 'block';
-  } else {
-    content.style.display = 'none';
-  }
+  var isContentVisible = content.style.display === "block";
+  content.style.display = isContentVisible ? "none" : "block";
 }
-
-// Ensure the content is hidden on initial load
-document.addEventListener("DOMContentLoaded", function() {
-  document.getElementById('abstractContent').style.display = 'none';
-  document.getElementById('mediaContent').style.display = 'none';
-});
 </script>
-
-<h2 style="margin-top: 30px; font-weight: normal;">Work in Progress</h2>
-
-<div style="padding-left: 0px;"> 
-
-  <h3 style="margin-top: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
-</div>
 
 <h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Publications</h2>
 
