@@ -11,11 +11,19 @@ My research interests lie in the field of empirical microeconomics with a focus 
 
 <h2 style="margin-top: 30px; font-weight: normal;">Working Papers</h2>
 
+<style>
+.hidden-content {
+  display: none; /* Ensure content is initially hidden */
+  padding-left: 30px;
+}
+</style>
+
 <div style="padding-left: 0px;"> 
-  
+
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2024</p>
- <div style="display: flex; flex-wrap: wrap; gap: 10px; padding-left: 30px;">
+
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; padding-left: 30px;">
     <details>
       <summary onclick="toggleContent('abstractContent')">Abstract</summary>
     </details>
@@ -36,19 +44,25 @@ My research interests lie in the field of empirical microeconomics with a focus 
     </p>
   </div>
 
+</div>
+
 <script>
 function toggleContent(contentId) {
   var content = document.getElementById(contentId);
-  content.style.display = content.style.display === 'none' ? 'block' : 'none';
+  // If the content is currently hidden, show it, otherwise hide it.
+  if (content.style.display === 'none' || content.style.display === '') {
+    content.style.display = 'block';
+  } else {
+    content.style.display = 'none';
+  }
 }
 
-// Set the initial state to hidden when the page loads
-window.onload = function() {
+// Ensure the content is hidden on initial load
+document.addEventListener("DOMContentLoaded", function() {
   document.getElementById('abstractContent').style.display = 'none';
   document.getElementById('mediaContent').style.display = 'none';
-};
-  
- </div>
+});
+</script>
 
 <h2 style="margin-top: 30px; font-weight: normal;">Work in Progress</h2>
 
