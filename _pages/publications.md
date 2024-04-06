@@ -57,15 +57,16 @@ We use admission lotteries for higher education studies in the Netherlands to in
   </div>
   
 <script>
-function toggleContent(contentId, detailElement) {
+function toggleContent(contentId) {
   var content = document.getElementById(contentId);
-  if (detailElement.open) {
-    content.style.display = "block";
-  } else {
-    content.style.display = "none";
-  }
+  content.style.display = content.style.display === 'none' ? 'block' : 'none';
 }
-</script>
+
+// Set the initial state to hidden when the page loads
+window.onload = function() {
+  document.getElementById('abstractContent').style.display = 'none';
+  document.getElementById('mediaContent').style.display = 'none';
+};
   
   <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b> (2021)</p>
