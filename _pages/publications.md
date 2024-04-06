@@ -17,31 +17,23 @@ My research interests lie in the field of empirical microeconomics with a focus 
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2024</p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; padding-left: 30px;">
-    <button style="color: black;" onclick="toggleContent('abstractContent')">Abstract</button>
-    <button style="color: black;" onclick="toggleContent('mediaContent')">Media</button>
-  </div>
+    <details>
+      <summary>Abstract</summary>
+      <p align="justify" style="margin-bottom: 0px;">  
+        We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
+      </p>
+    </details>
 
-  <div id="abstractContent" style="display: none; padding-left: 30px;">
-    <p align="justify">  
-      We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
-    </p>
-  </div>
-
-  <div id="mediaContent" style="display: none; padding-left: 30px;">
-    <p align="justify">  
-      Here you can include any media related content such as videos, podcasts, or links to media appearances related to your research.
-    </p>
+    <details>
+      <summary>Media</summary>
+      <p align="justify" style="margin-top: 0px;">
+        <!-- Add your media-related content here, it will be displayed when "Media" is clicked. -->
+        Here you can include any media related content such as videos, podcasts, or links to media appearances related to your research.
+      </p>
+    </details>
   </div>
 
 </div>
-
-<script>
-function toggleContent(contentId) {
-  var content = document.getElementById(contentId);
-  var isContentVisible = content.style.display === "block";
-  content.style.display = isContentVisible ? "none" : "block";
-}
-</script>
 
 
 <h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Publications</h2>
