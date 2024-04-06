@@ -17,12 +17,8 @@ My research interests lie in the field of empirical microeconomics with a focus 
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2024</p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 10px; padding-left: 30px;">
-    <details>
-      <summary onclick="toggleContent('abstractContent')">Abstract</summary>
-    </details>
-    <details>
-      <summary onclick="toggleContent('mediaContent')">Media</summary>
-    </details>
+    <button style="background-color: transparent; border: none; color: blue; text-align: left; padding: 0; cursor: pointer;" onclick="toggleContent('abstractContent')">Abstract</button>
+    <button style="background-color: transparent; border: none; color: blue; text-align: left; padding: 0; cursor: pointer;" onclick="toggleContent('mediaContent')">Media</button>
   </div>
 
   <div id="abstractContent" style="display: none; padding-left: 30px;">
@@ -44,11 +40,9 @@ function toggleContent(contentId) {
   var content = document.getElementById(contentId);
   var isContentVisible = content.style.display === "block";
   content.style.display = isContentVisible ? "none" : "block";
-
-  // Prevent the default action of <details> toggling to keep the <summary> looking standard
-  event.preventDefault();
 }
 </script>
+
 
 <h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Publications</h2>
 
