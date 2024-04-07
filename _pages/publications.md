@@ -26,6 +26,12 @@ My research interests lie in the field of empirical microeconomics with a focus 
 </div>
 
 
+<h2 style="margin-top: 30px; font-weight: normal;">Work in Progress</h2>
+
+<div style="padding-left: 0px;"> 
+<h3 style="margin-top: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
+</div>
+
 
 <h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Publications</h2>
 
