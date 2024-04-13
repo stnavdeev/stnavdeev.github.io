@@ -15,15 +15,21 @@ My research interests lie in the field of empirical microeconomics with a focus 
   
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
   <p style="margin-bottom: 0; padding-left: 30px;">(with <a href="https://sites.google.com/site/nadineketel/home" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>), under review, 2024</p>
-  
-  <details>
+
+    <details>
     <summary style="padding-left: 30px;"> Abstract </summary>
     <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
-      We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
+We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
     </p>
   </details>
   
-</div>
+  <details>
+    <summary style="padding-left: 30px;"> Media </summary>
+    <p align="justify" style="padding-left: 30px; margin-top: 0px;">
+      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>
+    </p>
+  </details>
+
 
 
 <h2 style="margin-top: 30px; font-weight: normal;">Work in Progress</h2>
