@@ -24,7 +24,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   </details>
   
   <details>
-    <summary style="padding-left: 30px;"> Media </summary>
+    <summary style="padding-left: 30px;"> Media Coverage </summary>
     <p align="justify" style="padding-left: 30px; margin-top: 0px;">
       <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>
     </p>
@@ -53,7 +53,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   </details>
   
   <details>
-    <summary style="padding-left: 30px;"> Media </summary>
+    <summary style="padding-left: 30px;"> Media Coverage </summary>
     <p align="justify" style="padding-left: 30px; margin-top: 0px;">
       <a href="https://iq.hse.ru/en/news/480499696.html">IQ.hse</a>
     </p>
