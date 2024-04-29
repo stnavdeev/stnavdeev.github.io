@@ -15,6 +15,7 @@ I am an empirical microeconomist with an interest in the economics of education 
 </p>
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
-- [Quantitative Economics Doctorate Jamboree](https://www.econ.ku.dk/qed/), 24-25 May, Amsterdam, the Netherlands
+- [Quantitative Economics Doctorate Jamboree](https://www.econ.ku.dk/qed/), 24-25 May, Amsterdam, The Netherlands
+- [Tinbergen Institute Jamboree](https://tinbergen.nl/event/2024/05/31/12467/phd-jamboree), 31 May, Amsterdam, The Netherlands
 - [Workshop on Immigration, Health, and Wellbeing](https://www.econ.upf.edu/~cnicodemo/files/VIMigWorkshop2024.pdf), 13-14 June, Verona, Italy 
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
