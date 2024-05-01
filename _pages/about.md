@@ -20,3 +20,4 @@ I am an empirical microeconomist with an interest in the economics of education 
 - [Workshop on Immigration, Health, and Wellbeing](https://www.econ.upf.edu/~cnicodemo/files/VIMigWorkshop2024.pdf), 13-14 June, Verona, Italy 
 - [Royal Dutch Economic Association New Paper Sessions (KVS)](https://esb.nu/new-paper-sessions-2024/), 17 June, the Hague, the Netherlands
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
+- [Annual Meeting of the European Economic Association (EEA)](https://www.eea-esem-congresses.org), 26-30 August, Rotterdam, the Netherlands
