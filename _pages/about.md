@@ -21,4 +21,4 @@ I am an empirical microeconomist with an interest in the economics of education 
 - [Royal Dutch Economic Association New Paper Sessions (KVS)](https://esb.nu/new-paper-sessions-2024/), 17 June, the Hague, the Netherlands
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
 - [Annual Meeting of the European Economic Association (EEA)](https://www.eea-esem-congresses.org), 26-30 August, Rotterdam, the Netherlands
-- [Workshop on Education Economics of Policy (WEEP)](https://sites.google.com/site/prgreenc/weep-2024), 9-10 Setember, Trondheim, Norway
+- [Workshop on Education Economics of Policy (WEEP)](https://sites.google.com/site/prgreenc/weep-2024), 9-10 September, Trondheim, Norway
