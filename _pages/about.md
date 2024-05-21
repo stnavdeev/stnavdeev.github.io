@@ -13,9 +13,6 @@ I am a PhD candidate in Economics at the University of Amsterdam. My advisors ar
 <p align="justify">
 I am an empirical microeconomist with an interest in the economics of education and health economics. I use quasi-experimental methods to estimate the effects of policy reforms using administrative and survey data.
 </p>
-<p align="justify">
-Email: stnavdeev [at] gmail [dot] com
-</p>
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
 - [Quantitative Economics Doctorate Jamboree](https://www.econ.ku.dk/qed/), 24-25 May, Amsterdam, the Netherlands
