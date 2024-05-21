@@ -19,6 +19,7 @@ I am an empirical microeconomist with an interest in the economics of education 
 - [Tinbergen Institute Jamboree](https://tinbergen.nl/event/2024/05/31/12467/phd-jamboree), 31 May, Amsterdam, the Netherlands
 - [Workshop on Immigration, Health, and Wellbeing](https://www.catianicodemo.com/files/VIMigWorkshop2024.pdf), 13-14 June, Verona, Italy 
 - [Royal Dutch Economic Association New Paper Sessions (KVS)](https://esb.nu/new-paper-sessions-2024/), 17 June, the Hague, the Netherlands
+- [Counterfactual Methods for Policy Impact Evaluation Conference (COMPIE)](https://knowledge4policy.ec.europa.eu/event/compie-2024-conference_en), Amsterdam, the Netherlands, 24-26 June
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
 - [Annual Meeting of the European Economic Association (EEA)](https://www.eea-esem-congresses.org), 26-30 August, Rotterdam, the Netherlands
 - [Workshop on Education Economics and Policy (WEEP)](https://sites.google.com/site/prgreenc/weep-2024), 9-10 September, Trondheim, Norway
