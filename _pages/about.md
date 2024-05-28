@@ -22,3 +22,4 @@ I am an empirical microeconomist with an interest in the economics of education 
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
 - [Annual Meeting of the European Economic Association (EEA)](https://www.eea-esem-congresses.org), 26-30 August, Rotterdam, the Netherlands
 - [Workshop on Education Economics and Policy (WEEP)](https://sites.google.com/site/prgreenc/weep-2024), 9-10 September, Trondheim, Norway
+- [Maastricht Centre for Citizenship, Migration and Development Annual Work Conference (MACIMIDE)](https://macimide.maastrichtuniversity.nl/events/23-09-2024-macimide-annual-conference/), 23 September, Maastricht, the Netherlands
