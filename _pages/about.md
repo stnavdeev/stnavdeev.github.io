@@ -14,8 +14,7 @@ I am a PhD candidate in Economics at the University of Amsterdam. My advisors ar
 I am an empirical microeconomist with an interest in the economics of education and health economics. I use quasi-experimental methods to estimate the effects of policy reforms using administrative and survey data.
 </p>
 
-<h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
-- [Workshop on Immigration, Health, and Wellbeing](https://www.catianicodemo.com/files/VIMigWorkshop2024.pdf), 13-14 June, Verona, Italy 
+<h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming presentations</h2>
 - [Royal Dutch Economic Association New Paper Sessions (KVS)](https://drive.google.com/file/d/1JBhfzRXLvIZnsPu8CNV8IY5Ez595I9Qw/view), 17 June, the Hague, the Netherlands
 - [Counterfactual Methods for Policy Impact Evaluation Conference (COMPIE)](https://editorialexpress.com/conference/COMPIE2024/program/COMPIE2024.html), 24-26 June, Amsterdam, the Netherlands
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
