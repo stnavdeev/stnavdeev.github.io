@@ -15,7 +15,6 @@ I am an empirical microeconomist with an interest in the economics of education 
 </p>
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming presentations</h2>
-- [Royal Dutch Economic Association New Paper Sessions (KVS)](https://drive.google.com/file/d/1JBhfzRXLvIZnsPu8CNV8IY5Ez595I9Qw/view), 17 June, the Hague, the Netherlands
 - [Counterfactual Methods for Policy Impact Evaluation Conference (COMPIE)](https://editorialexpress.com/conference/COMPIE2024/program/COMPIE2024.html), 24-26 June, Amsterdam, the Netherlands
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
 - [Annual Meeting of the European Economic Association (EEA)](https://www.eea-esem-congresses.org), 26-30 August, Rotterdam, the Netherlands
