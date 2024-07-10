@@ -14,7 +14,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
 <div style="padding-left: 0px;"> 
   
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
-  <p style="margin-bottom: 0; padding-left: 30px;"><b><i>R&R at Journal of Public Economics</i></b> (2024)</p>
+  <p style="margin-bottom: 0; padding-left: 30px;"><b><i>R&R at Journal of Public Economics</i></b></p>
   <p style="margin-bottom: 0; padding-left: 30px;">with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw</p>
 
     <details>
@@ -44,7 +44,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
 
 <div style="padding-left: 00px;"> 
     <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
-  <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Oxford Bulletin of Economics and Statistics</i></b> (2024)</p>
+  <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Oxford Bulletin of Economics and Statistics</i></b></p>
 
     <details>
     <summary style="padding-left: 30px;"> Abstract </summary>
@@ -62,7 +62,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   
 
   <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
-  <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b> (2021)</p>
+  <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b></p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
       <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
