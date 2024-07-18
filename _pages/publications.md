@@ -9,7 +9,8 @@ author_profile: true
 My research interests lie in the field of empirical microeconomics with a focus on the economics of education and health. To estimate the impact of policy reforms in these areas, I use quasi-experimental methods that leverage administrative and survey data. This approach allows me to gain insights into the effects of policy changes in real-world settings, and to identify the causal mechanisms behind these effects. 
 </p>
 
-<h2 style="margin-top: 30px; font-weight: normal;">Publications</h2>
+
+<h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Publications</h2>
 
 <div style="padding-left: 0px;"> 
   
@@ -33,14 +34,14 @@ We use admission lotteries for higher education studies in the Netherlands to in
 
 
 
-<h2 style="margin-top: 30px; font-weight: normal;">Work in Progress</h2>
+<h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
 <h3 style="margin-top: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
 </div>
 
 
-<h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Publications</h2>
+<h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
     <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
