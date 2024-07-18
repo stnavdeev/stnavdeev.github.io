@@ -13,6 +13,9 @@ I am a PhD candidate in Economics at the University of Amsterdam. My advisors ar
 <p align="justify">
 I am an empirical microeconomist with an interest in the economics of education and health economics. I use quasi-experimental methods to estimate the effects of policy reforms using administrative and survey data.
 </p>
+<p align="justify">
+You can reach me at <a href="mailto:stnavdeev@gmail.com">stnavdeev@gmail.com</a> or on <a href="https://x.com/stnavdeev">X</a>.
+</p>
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming presentations</h2>
 - [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
