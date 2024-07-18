@@ -34,14 +34,14 @@ We use admission lotteries for higher education studies in the Netherlands to in
 
 
 
-<h2 style="margin-top: 20px; font-weight: normal; text-align: center;">Work in Progress</h2>
+<h2 style="margin-top: 15px; font-weight: normal; text-align: center;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
 <h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
 </div>
 
 
-<h2 style="margin-top: 35px; font-weight: normal; text-align: center;">Pre-PhD Publications</h2>
+<h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
     <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
