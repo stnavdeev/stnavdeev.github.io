@@ -14,8 +14,8 @@ My research interests lie in the field of empirical microeconomics with a focus 
 
 <div style="padding-left: 0px;"> 
   
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf" style="color: black;">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
-  <p style="margin-bottom: 0; padding-left: 30px;"> <i>Accepted at <b>Journal of Public Economics</b></i></p>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
+  <p style="margin-bottom: 0; padding-left: 30px;"> <i><b>Journal of Public Economics</b> (Forthcoming)</i></p>
   <p style="margin-bottom: 0; padding-left: 30px;">with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw</p>
 
     <details>
@@ -28,7 +28,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   <details>
     <summary style="padding-left: 30px;"> Media </summary>
     <p align="justify" style="padding-left: 30px; margin-top: 0px;">
-      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>
+      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>
     </p>
   </details>
 
@@ -37,14 +37,14 @@ We use admission lotteries for higher education studies in the Netherlands to in
 <h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
-<h3 style="margin-top: 5px; font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
+<h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
 </div>
 
 
 <h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
-    <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf" style="color: black;">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
+    <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Oxford Bulletin of Economics and Statistics</i></b></p>
 
     <details>
@@ -57,12 +57,12 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   <details>
     <summary style="padding-left: 30px;"> Media </summary>
     <p align="justify" style="padding-left: 30px; margin-top: 0px;">
-      <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
+      <a href="https://iq.hse.ru/en/news/480499696.html">IQ.hse</a>
     </p>
   </details>
   
 
-  <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf" style="color: black;">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;"><b><i>Scientometrics</i></b></p>
   <details>
       <summary style="padding-left: 30px;"> Abstract </summary>
