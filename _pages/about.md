@@ -23,4 +23,4 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 - [Workshop on Education Economics and Policy (WEEP)](https://sites.google.com/site/prgreenc/weep-2024), 9-10 September, Trondheim, Norway
 - [Maastricht Centre for Citizenship, Migration and Development Annual Work Conference (MACIMIDE)](https://macimide.maastrichtuniversity.nl/events/23-09-2024-macimide-annual-conference/), 23 September, Maastricht, the Netherlands
 - [CEMIR Junior Economist Workshop on Migration Research](https://www.ifo.de/en/event/2024-10-22/cemir-junior-economist-workshop-migration-research-2024), 22-23 October, Munich, Germany
-- [Workshop on Immigration, Integration and Attitudes](https://www.zew.de/en/events-and-professional-training/detail/third-workshop-on-immigration-integration-and-attitudes-1), 24-25 October, Mannheim, Germany
+- [Workshop on Immigration, Integration and Attitudes](https://www.zew.de/en/events-and-professional-training/detail/third-workshop-on-immigration-integration-and-attitudes-1/4374?cHash=0b54f74f5077663e3b1b14b30e3dbe0f), 24-25 October, Mannheim, Germany
