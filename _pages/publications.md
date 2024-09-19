@@ -28,7 +28,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   <details>
     <summary style="padding-left: 30px;"> Media </summary>
     <p align="justify" style="padding-left: 30px; margin-top: 0px;">
-      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>
+      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html">Amsterdam School of Economics</a>
     </p>
   </details>
 
