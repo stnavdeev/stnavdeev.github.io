@@ -55,7 +55,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-bluesky                  : "stnavdeev.bsky.social"
 twitter:
   username               : #&twitter
 facebook:
