@@ -13,7 +13,7 @@ I am a PhD candidate in Economics at the University of Amsterdam. I am an empiri
 <p align="justify">
 </p>
 <p align="justify">
-You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://x.com/stnavdeev" style="color: black;">X</a>.
+You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://bsky.app/profile/stnavdeev.bsky.social" style="color: black;">Bluesky</a>.
 </p>
 
 <h2 style="margin-top: 30px; font-weight: normal;">Upcoming trips (reach out if you want to grab a coffee/beer)</h2>
