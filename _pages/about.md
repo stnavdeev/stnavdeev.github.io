@@ -17,5 +17,4 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 </p>
 
 <h2 style="margin-top: 30px; font-weight: normal;">Upcoming trips (reach out if you want to grab a coffee/beer)</h2>
-- [CPB Knowledge and Innovation Education Seminar](https://www.cpb.nl/en/hybrid-seminar-university-melting-pot-long-term-effects-international-peers), 26 November, the Hague, the Netherlands
 - [Annual Conference on Immigration in OECD Countries](https://immigoecd14.sciencesconf.org), December 12-13, Paris, France
