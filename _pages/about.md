@@ -15,6 +15,3 @@ I am a PhD candidate in Economics at the University of Amsterdam. I am an empiri
 <p align="justify">
 You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://bsky.app/profile/stnavdeev.com" style="color: black;">Bluesky</a>. 
 </p>
-
-<h2 style="margin-top: 30px; font-weight: normal;">Upcoming trips (reach out if you want to grab a coffee/beer)</h2>
-- [Annual Conference on Immigration in OECD Countries](https://immigoecd14.sciencesconf.org), December 12-13, Paris, France
