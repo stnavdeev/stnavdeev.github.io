@@ -37,7 +37,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
 <h2 style="margin-top: 15px; font-weight: normal; text-align: center;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
-<h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctor Quality and Patients' Health and Labor Outcomes</h3>
+<h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctor Quality and Patients’ Health and Labor Market Outcomes</h3>
 </div>
 
 
