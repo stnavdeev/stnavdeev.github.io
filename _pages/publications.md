@@ -16,7 +16,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
   
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
   <p style="margin-bottom: 0; padding-left: 30px;"> <i><b>Journal of Public Economics</b></i></p>
-  <p style="margin-bottom: 0; padding-left: 30px;">with Nadine Ketel, Hessel Oosterbeek, and Bas van der Klaauw</p>
+  <p style="margin-bottom: 0; padding-left: 30px;">with <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></p>
 
     <details>
     <summary style="padding-left: 30px;"> Abstract </summary>
