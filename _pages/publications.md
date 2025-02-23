@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="justify">  
-My research interests lie in the field of empirical microeconomics with a focus on the economics of education and health. To estimate the impact of policy reforms in these areas, I use quasi-experimental methods that leverage administrative and survey data. This approach allows me to gain insights into the effects of policy changes in real-world settings, and to identify the causal mechanisms behind these effects. 
+My research interests lie in the field of empirical microeconomics with a focus on the economics of education and health. 
 </p>
 
 
