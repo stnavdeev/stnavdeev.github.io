@@ -33,6 +33,27 @@ We use admission lotteries for higher education studies in the Netherlands to in
   </details>
 
 
+<h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Working Papers</h2>
+
+<div style="padding-left: 0px;"> 
+  
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Researcher_Variation.pdf">The Sources of Researcher Variation in Economics”</a></h3> 
+  <p style="margin-bottom: 0; padding-left: 30px;">with <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.</p>
+
+    <details>
+    <summary style="padding-left: 30px;"> Abstract </summary>
+    <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
+We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which restricted research design choices, exhibited slightly higher IQR (4.0 percentage points), largely attributable to imperfect adherence to the prescribed protocol. By contrast, the final stage, featuring standardized data cleaning, narrowed variation in estimated effects, achieving an IQR of 2.4 percentage points. Reported sample sizes also displayed significant convergence under more restrictive conditions, with the IQR dropping from 295,187 in the first stage to 29,144 in the second, and effectively zero by the third. Our findings underscore the critical importance of data cleaning in shaping applied microeconomic results and highlight avenues for future replication efforts.
+    </p>
+  </details>
+  
+  <details>
+    <summary style="padding-left: 30px;"> Media </summary>
+    <p align="justify" style="padding-left: 30px; margin-top: 0px;">
+      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html">Amsterdam School of Economics</a>
+    </p>
+  </details>
+
 
 <h2 style="margin-top: 15px; font-weight: normal; text-align: center;">Work in Progress</h2>
 
