@@ -51,7 +51,7 @@ We use a rigorous three-stage many-analysts design to assess how different resea
 <h2 style="margin-top: 15px; font-weight: normal; text-align: center;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
-<h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctor Quality and Patients’ Health and Labor Market Outcomes</h3>
+<h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
 </div>
 
 
