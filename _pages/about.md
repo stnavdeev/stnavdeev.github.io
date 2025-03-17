@@ -18,7 +18,7 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 </p>
 
 <h2 style="margin-top: 30px; font-weight: normal;">Upcoming trips</h2>
-- [Brunel PhD Symposium on the Economics of Education](https://www.brunel.ac.uk/economics-and-finance/research-and-phd-programmes), 19 March, online
+- [Brunel PhD Symposium on the Economics of Education](https://stnavdeev.com/Brunel_PhD_Symposium_Agenda.pdf), 19 March, online
 - [CESifo/ifo Junior Workshop on the Economics of Education](https://www.cesifo.org/en/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025), 12-13 May, Munich, Germany
 - [Annual Conference of the European Society for Population Economics (ESPE)](https://www.espe2025naples.com), 12-14 June, Naples, Italy
 - [World Labor Conference SOLE-EALE-AASLE](https://www.sole-jole.org/upcoming-meeting), 27-29 June, Toronto, Canada
