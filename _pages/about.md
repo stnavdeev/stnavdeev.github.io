@@ -17,7 +17,7 @@ I am a PhD candidate in Economics at the University of Amsterdam. I am an empiri
 You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://bsky.app/profile/stnavdeev.com" style="color: black;">Bluesky</a>. 
 </p>
 
-<h2 style="margin-top: 30px; font-weight: normal;">Upcoming trips</h2>
+<h2 style="margin-top: 30px; font-weight: normal;">Upcoming presentations</h2>
 - [Brunel PhD Symposium on the Economics of Education](https://stnavdeev.com/Brunel_PhD_Symposium_Agenda.pdf), 19 March, online
 - [CESifo/ifo Junior Workshop on the Economics of Education](https://www.cesifo.org/en/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025), 12-13 May, Munich, Germany
 - [Annual Conference of the European Society for Population Economics (ESPE)](https://www.espe2025naples.com), 12-14 June, Naples, Italy
