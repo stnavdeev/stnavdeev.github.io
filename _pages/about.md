@@ -22,5 +22,6 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 - [CESifo/ifo Junior Workshop on the Economics of Education](https://www.cesifo.org/en/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025), 12-13 May, Munich, Germany
 - [University of Amsterdam Seminar on Sustainability](https://asf.uva.nl/content/events/2025/05/seems-seminar-with-stanislav-avdeev-ase-uva--justin-starreveld-abs-uva.html?origin=bg7%2BbsTPS7mnmftCfYyi1A), 26 May, Amsterdam, the Netherlands
 - [Annual Conference of the European Society for Population Economics (ESPE)](https://www.espe2025naples.com), 12-14 June, Naples, Italy
+- [International Workshop on Applied Economics of Education (IWAEE)](https://iwaee.org/new/), 15-17 June, Catanzaro, Italy
 - [The Economics of Migration Junior Workshop](https://economig2025.sciencesconf.org), 23-24 June, Clermont-Ferrand, France
 - [World Labor Conference SOLE-EALE-AASLE](https://www.sole-jole.org/upcoming-meeting), 27-29 June, Toronto, Canada
