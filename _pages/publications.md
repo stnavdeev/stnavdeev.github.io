@@ -1,10 +1,9 @@
 ---
 permalink: /research/
-title: "Research"    
+title:    
 author_profile: true
 layout: single
 ---
-
 
 <h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Publications</h2>
 
