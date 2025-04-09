@@ -10,7 +10,7 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Tinbergen Institute</h2>
-<ul style="margin-left: 0px; padding-left: 20px;">
+<ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
   <li>
     Econometrics II (graduate) – 
     <a href="https://github.com/stnavdeev/econometrics" target="_blank">GitHub</a>
@@ -19,7 +19,7 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">University of Amsterdam</h2>
-<ul style="margin-left: 0px; padding-left: 20px;">
+<ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
   <li>Applied Econometrics (undergraduate and graduate)</li>
   <li>
     Thesis Supervision (undergraduate) – 
@@ -30,6 +30,6 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Higher School of Economics</h2>
-<ul style="margin-left: 0px; padding-left: 20px;">
+<ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
   <li>Economics of Education (undergraduate)</li>
 </ul>
