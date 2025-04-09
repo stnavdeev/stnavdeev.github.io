@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD candidate in Economics at the University of Amsterdam. I am an empirical microeconomist with an interest in the economics of education and health. My advisors are <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a> and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a>.
 </p>
 <p align="justify">
-   Currently, I am visiting the University of Bergen, hosted by <a href="https://sites.google.com/site/riisejulie" style="color: black;">Julie Riise</a> and <a href="https://sites.google.com/site/julianvedelerjohnsen/" style="color: black;">Julian V. Johnsen</a>. If you are around, I’d be happy to meet for a coffee or a very expensive Norwegian beer.
+   Currently, I am visiting the University of Bergen, hosted by <a href="https://sites.google.com/site/riisejulie" style="color: black;">Julie Riise</a> and <a href="https://sites.google.com/site/julianvedelerjohnsen/" style="color: black;">Julian V. Johnsen</a>. If you are around, I would be happy to meet for a coffee or a very expensive Norwegian beer.
 </p>
 <p align="justify">
 You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://bsky.app/profile/stnavdeev.com" style="color: black;">Bluesky</a>. 
