@@ -2,7 +2,6 @@
 permalink: /research/
 title:    
 author_profile: true
-layout: single
 ---
 
 <h2 style="margin-top: 0px; font-weight: bold; text-align: left;">Publications</h2>
