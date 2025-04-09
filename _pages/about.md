@@ -14,7 +14,7 @@ I am a PhD candidate in Economics at the University of Amsterdam. I am an empiri
    Currently, I am visiting the University of Bergen, hosted by <a href="https://sites.google.com/site/riisejulie" style="color: black;">Julie Riise</a> and <a href="https://sites.google.com/site/julianvedelerjohnsen/" style="color: black;">Julian V. Johnsen</a>. If you are around, I would be happy to meet for a coffee or a very expensive Norwegian beer.
 </p>
 <p align="justify">
-You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://bsky.app/profile/stnavdeev.com" style="color: black;">Bluesky</a>. Here is my <a href="https://stnavdeev.com/Avdeev_CV.pdf" style="color: black;">CV</a>.
+You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://bsky.app/profile/stnavdeev.com" style="color: black;">Bluesky</a>.
 </p>
 
 
