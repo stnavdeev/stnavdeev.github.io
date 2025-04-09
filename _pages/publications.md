@@ -52,14 +52,14 @@ We use a rigorous three-stage many-analysts design to assess how different resea
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
-<h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
 </div>
 
 
 <h2 style="margin-top: 40px; font-weight: bold; text-align: left;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
-    <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
   <p style="margin-bottom: 0; padding-left: 0px;"><i>Oxford Bulletin of Economics and Statistics</i></p>
 
     <details>
@@ -77,7 +77,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   </details>
   
 
-  <h3 style="margin-top: 10px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 0px;"><i>Scientometrics</i></p>
   <details>
       <summary style="padding-left: 0px;"> Abstract </summary>
