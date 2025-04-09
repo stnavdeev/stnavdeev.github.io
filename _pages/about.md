@@ -17,7 +17,7 @@ I am a PhD candidate in Economics at the University of Amsterdam. I am an empiri
 You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a> or on <a href="https://bsky.app/profile/stnavdeev.com" style="color: black;">Bluesky</a>. 
 </p>
 
-<h2 style="margin-top: 30px; font-weight: normal;">Upcoming talks</h2>
+<h2 style="margin-top: 30px; font-weight: bold;">Upcoming talks</h2>
 - [Amsterdam Meta Science Network Seminar](http://rios-vu.nl/rios-symposium/), 8 May, Amsterdam, the Netherlands
 - [CESifo/ifo Junior Workshop on the Economics of Education](https://www.cesifo.org/en/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025), 12-13 May, Munich, Germany
 - [University of Amsterdam Seminar on Sustainability](https://asf.uva.nl/content/events/2025/05/seems-seminar-with-stanislav-avdeev-ase-uva--justin-starreveld-abs-uva.html?origin=bg7%2BbsTPS7mnmftCfYyi1A), 26 May, Amsterdam, the Netherlands
