@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-<h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Publications</h2>
+<h2 style="margin-top: 0px; font-weight: normal; text-align: center;">Publications</h2>
 
 <div style="padding-left: 0px;"> 
   
