@@ -1,8 +1,8 @@
 ---
 permalink: /research/
 title: "Research"    
-show_title: false
 author_profile: true
+layout: default
 ---
 
 
