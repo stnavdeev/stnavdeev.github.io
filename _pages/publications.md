@@ -1,13 +1,10 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research"    
+show_title: false
 author_profile: true
-
+layout: default   
 ---
-
-<p align="justify">  
-My research interests lie in the field of empirical microeconomics with a focus on the economics of education and health. 
-</p>
 
 
 <h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Publications</h2>
