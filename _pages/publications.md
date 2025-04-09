@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-<h2 style="margin-top: 0px; font-weight: normal; text-align: center;">Publications</h2>
+<h2 style="margin-top: 0px; font-weight: bold; text-align: left;">Publications</h2>
 
 <div style="padding-left: 0px;"> 
   
@@ -28,7 +28,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   </details>
 
 
-<h2 style="margin-top: 30px; font-weight: normal; text-align: center;">Working Papers</h2>
+<h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Working Papers</h2>
 
 <div style="padding-left: 0px;"> 
   
@@ -49,7 +49,7 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   </details>
   
 
-<h2 style="margin-top: 15px; font-weight: normal; text-align: center;">Work in Progress</h2>
+<h2 style="margin-top: 15px; font-weight: bold; text-align: left;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
 <h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
