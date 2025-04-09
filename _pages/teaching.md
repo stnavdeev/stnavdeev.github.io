@@ -20,4 +20,6 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Higher School of Economics</h2>
 
-- Economics of Education (undergraduate)
+<ul style="margin-left: 0px; padding-left: 0px;">
+  <li>Economics of Education (undergraduate)</li>
+</ul>
