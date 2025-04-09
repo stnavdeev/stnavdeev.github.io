@@ -28,7 +28,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   </details>
 
 
-<h2 style="margin-top: 40px; font-weight: bold; text-align: left;">Working Papers</h2>
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 
 <div style="padding-left: 0px;"> 
   
@@ -49,14 +49,14 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   </details>
   
 
-<h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Work in Progress</h2>
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
 </div>
 
 
-<h2 style="margin-top: 40px; font-weight: bold; text-align: left;">Pre-PhD Publications</h2>
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
