@@ -5,12 +5,12 @@ author_profile: true
 layout: single
 ---
 
-<h2 style="margin-top: 0px; font-weight: normal; text-align: left;">Publications</h2>
+<h2 style="margin-top: 0px; font-weight: bold; text-align: left;">Publications</h2>
 
 <div style="padding-left: 0px;"> 
   
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
-  <p style="margin-bottom: 0; padding-left: 0px;"> <i><b>Journal of Public Economics</b></i></p>
+  <p style="margin-bottom: 0; padding-left: 0px;"> <i>Journal of Public Economics</i></p>
   <p style="margin-bottom: 0; padding-left: 0px;">with <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></p>
 
     <details>
@@ -21,14 +21,14 @@ We use admission lotteries for higher education studies in the Netherlands to in
   </details>
   
   <details>
-    <summary style="padding-left: 5px;"> Media </summary>
+    <summary style="padding-left: 0px;"> Media </summary>
     <p align="justify" style="padding-left: 0px; margin-top: 0px;">
       <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html">Amsterdam School of Economics</a>
     </p>
   </details>
 
 
-<h2 style="margin-top: 40px; font-weight: normal; text-align: left;">Working Papers</h2>
+<h2 style="margin-top: 40px; font-weight: bold; text-align: left;">Working Papers</h2>
 
 <div style="padding-left: 0px;"> 
   
@@ -49,18 +49,18 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   </details>
   
 
-<h2 style="margin-top: 30px; font-weight: normal; text-align: left;">Work in Progress</h2>
+<h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
 <h3 style="margin-top: 5px; color: #b80057;font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
 </div>
 
 
-<h2 style="margin-top: 40px; font-weight: normal; text-align: left;">Pre-PhD Publications</h2>
+<h2 style="margin-top: 40px; font-weight: bold; text-align: left;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 00px;"> 
     <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
-  <p style="margin-bottom: 0; padding-left: 0px;"><b><i>Oxford Bulletin of Economics and Statistics</i></b></p>
+  <p style="margin-bottom: 0; padding-left: 0px;"><i>Oxford Bulletin of Economics and Statistics</i></p>
 
     <details>
     <summary style="padding-left: 0px;"> Abstract </summary>
@@ -77,8 +77,8 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   </details>
   
 
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
-  <p style="margin-bottom: 0; padding-left: 0px;"><b><i>Scientometrics</i></b></p>
+  <h3 style="margin-top: 10px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <p style="margin-bottom: 0; padding-left: 0px;"><i>Scientometrics</i></p>
   <details>
       <summary style="padding-left: 0px;"> Abstract </summary>
       <p align="justify" style="padding-left: 0px; margin-bottom: 0px;">  
