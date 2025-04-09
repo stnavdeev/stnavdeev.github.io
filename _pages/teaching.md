@@ -8,7 +8,7 @@ author_profile: true
 My primary teaching focus is econometrics. In my classes, I use data simulated by known data-generating processes. This approach helps students build strong intuition by comparing estimated parameters against a clear benchmark, which makes it easier to identify bias and model misspecification.
 </p>
 
-<!-- Tinbergen Institute -->
+
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Tinbergen Institute</h2>
 <ul style="margin-left: 0px; padding-left: 20px;">
   <li>
@@ -17,7 +17,7 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
   </li>
 </ul>
 
-<!-- University of Amsterdam -->
+
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">University of Amsterdam</h2>
 <ul style="margin-left: 0px; padding-left: 20px;">
   <li>Applied Econometrics (undergraduate and graduate)</li>
@@ -28,7 +28,7 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
   <li>Economics (undergraduate)</li>
 </ul>
 
-<!-- Higher School of Economics -->
+
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Higher School of Economics</h2>
 <ul style="margin-left: 0px; padding-left: 20px;">
   <li>Economics of Education (undergraduate)</li>
