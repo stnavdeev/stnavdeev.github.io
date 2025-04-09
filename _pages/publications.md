@@ -19,7 +19,7 @@ My research interests lie in the field of empirical microeconomics with a focus 
   <p style="margin-bottom: 0; padding-left: 5px;">with <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></p>
 
     <details>
-    <summary style="padding-left: 30px;"> Abstract </summary>
+    <summary style="padding-left: 5px;"> Abstract </summary>
     <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
 We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
     </p>
@@ -41,7 +41,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   <p style="margin-bottom: 0; padding-left: 5px;">with <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.</p>
 
     <details>
-    <summary style="padding-left: 30px;"> Abstract </summary>
+    <summary style="padding-left: 5px;"> Abstract </summary>
     <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
 We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which restricted research design choices, exhibited slightly higher IQR (4.0 percentage points), largely attributable to imperfect adherence to the prescribed protocol. By contrast, the final stage, featuring standardized data cleaning, narrowed variation in estimated effects, achieving an IQR of 2.4 percentage points. Reported sample sizes also displayed significant convergence under more restrictive conditions, with the IQR dropping from 295,187 in the first stage to 29,144 in the second, and effectively zero by the third. Our findings underscore the critical importance of data cleaning in shaping applied microeconomic results and highlight avenues for future replication efforts.
     </p>
@@ -68,7 +68,7 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   <p style="margin-bottom: 0; padding-left: 5px;"><b><i>Oxford Bulletin of Economics and Statistics</i></b></p>
 
     <details>
-    <summary style="padding-left: 30px;"> Abstract </summary>
+    <summary style="padding-left: 5px;"> Abstract </summary>
     <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
 The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programmes by 1 year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. However, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns worked less during their studies, invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
     </p>
@@ -82,7 +82,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   </details>
   
 
-  <h3 style="margin-top: 5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 5px;"><b><i>Scientometrics</i></b></p>
   <details>
       <summary style="padding-left: 5px;"> Abstract </summary>
