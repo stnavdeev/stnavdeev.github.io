@@ -77,7 +77,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   </details>
   
 
-  <h3 style="margin-top: 10px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a></h3>
   <p style="margin-bottom: 0; padding-left: 0px;"><i>Scientometrics</i></p>
   <details>
       <summary style="padding-left: 0px;"> Abstract </summary>
