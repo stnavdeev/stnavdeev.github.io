@@ -58,7 +58,7 @@ yandex_site_verification :
 bluesky                  : 
   username               : "stnavdeev.com" # Replace this with you Bluesky username
 twitter:
-  username               : "stnavdeev"
+  username               : &twitter "stnavdeev"
 facebook:
   username               :
   app_id                 :
