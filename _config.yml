@@ -58,7 +58,7 @@ yandex_site_verification :
 bluesky                  : 
   username               : "stnavdeev.com" # Replace this with you Bluesky username
 twitter:
-  username               : "stnavdeev"
+  username               : #"stnavdeev"
 facebook:
   username               :
   app_id                 :
@@ -111,7 +111,7 @@ author:
   steam            :
   tumblr           :
   bluesky          : "stnavdeev.com"
-  twitter          : "stnavdeev"
+  twitter          : #"stnavdeev"
   vine             :
   weibo            :
   xing             :
