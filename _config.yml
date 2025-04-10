@@ -56,9 +56,9 @@ yandex_site_verification :
 
 # Social Sharing
 bluesky                  : 
-  username               : #"stnavdeev.com" # Replace this with you Bluesky username
+  username               : "stnavdeev.com" # Replace this with you Bluesky username
 twitter:
-  username               : #"stnavdeev"
+  username               : "stnavdeev"
 facebook:
   username               :
   app_id                 :
