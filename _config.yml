@@ -55,7 +55,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-bluesky                  : "stnavdeev.com" # Replace this with you Bluesky username
+bluesky                  : 
+  username               : "stnavdeev.com" # Replace this with you Bluesky username
 twitter:
   username               : #&twitter
 facebook:
