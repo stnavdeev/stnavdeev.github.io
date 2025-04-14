@@ -52,7 +52,7 @@ We use a rigorous three-stage many-analysts design to assess how different resea
 
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
-  <p style="margin-bottom: 0; padding-left: 0px;">Funded by the A Sustainable Future (ASF) initiative, Faculty of Economics and Business, University of Amsterdam.</p>
+  <p style="margin-bottom: 0; padding-left: 0px;">Funded by the A Sustainable Future (ASF) grant from the University of Amsterdam.</p>
 </div>
 
 
