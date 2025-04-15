@@ -52,7 +52,7 @@ We use a rigorous three-stage many-analysts design to assess how different resea
 
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
-  <p style="margin-bottom: 0; padding-left: 0px; font-size: 12px;">Funded by the A Sustainable Future (ASF) grant from the University of Amsterdam.</p>
+  <p style="margin-bottom: 0; padding-left: 0px; font-size: 14px;">Funded by the A Sustainable Future (ASF) grant from the University of Amsterdam.</p>
 </div>
 
 
@@ -62,8 +62,8 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
   <p style="margin-bottom: 0; padding-left: 0px;"><i>Oxford Bulletin of Economics and Statistics</i></p>
 
-  <div style="margin-top: 5px; padding-left: 0px; font-size: 12px;">
-    <ul style="margin-top: 0px; padding-left: 20px;">
+  <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
+    <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
       <li>Awards: Best Master's Thesis Award in Policy Evaluation by the Accounts Chamber of Russia, Best Master's Thesis Award in Economics by the Higher School of Economics, Best Master's Thesis Award in Economics by the European University at Saint Petersburg</li>
       <li>Media: <a href="https://iq.hse.ru/en/news/480499696.html">IQ.hse</a></li>
     </ul>
