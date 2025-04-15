@@ -11,21 +11,45 @@ author_profile: true
     <a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a>
   </h3>
   <p style="margin-bottom: 0; padding-left: 0;"><i>Journal of Public Economics</i></p>
-  
-  <details style="margin-left: 20px;">
-    <summary style="list-style-type: disc; display: list-item; cursor: pointer;">Abstract</summary>
-    <p align="justify" style="margin-left: 20px; margin-bottom: 0;">
-      We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
-    </p>
-  </details>
 
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="margin-top: 0; padding-left: 20px; margin-bottom: 0;">
-      <li>Co-authors: <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></li>
-      <li>Media: <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;">Amsterdam School of Economics</a></li>
-    </ul>
-  </div>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: 
+      <button id="toggleAbstractButton" onclick="toggleAbstract()" style="margin-left: 5px;">Show</button>
+      <div id="abstractContent" style="display: none; margin-top: 5px; margin-left: 20px;">
+        <p align="justify" style="margin-bottom: 0;">
+          We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also, younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
+        </p>
+      </div>
+    </li>
+    <li>
+      Co-authors: 
+      <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, 
+      <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and 
+      <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a>
+    </li>
+    <li>
+      Media: 
+      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>, 
+      <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;">Amsterdam School of Economics</a>
+    </li>
+  </ul>
+
+  <script>
+    function toggleAbstract() {
+      const abstractContent = document.getElementById("abstractContent");
+      const btn = document.getElementById("toggleAbstractButton");
+      if (abstractContent.style.display === "none") {
+        abstractContent.style.display = "block";
+        btn.textContent = "Hide";
+      } else {
+        abstractContent.style.display = "none";
+        btn.textContent = "Show";
+      }
+    }
+  </script>
 </div>
+
 
   
 
