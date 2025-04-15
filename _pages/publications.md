@@ -12,6 +12,12 @@ author_profile: true
   <p style="margin-bottom: 0; padding-left: 0px;"> <i>Journal of Public Economics</i></p>
   <p style="margin-bottom: 0; padding-left: 0px;">with <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></p>
 
+  <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
+    <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
+      <li>Media: <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html">Amsterdam School of Economics</a></li>
+    </ul>
+  </div>
+  
     <details>
     <summary style="padding-left: 0px;"> Abstract </summary>
     <p align="justify" style="padding-left: 0px; margin-bottom: 0px;">  
@@ -19,12 +25,6 @@ We use admission lotteries for higher education studies in the Netherlands to in
     </p>
   </details>
   
-  <details>
-    <summary style="padding-left: 0px;"> Media </summary>
-    <p align="justify" style="padding-left: 0px; margin-top: 0px;">
-      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html">Amsterdam School of Economics</a>
-    </p>
-  </details>
 
 
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
@@ -52,7 +52,13 @@ We use a rigorous three-stage many-analysts design to assess how different resea
 
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
-  <p style="margin-bottom: 0; padding-left: 0px; font-size: 14px;">Funded by the A Sustainable Future (ASF) grant from the University of Amsterdam.</p>
+
+<div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
+    <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
+      <li>Funded by the A Sustainable Future (ASF) grant from the University of Amsterdam.</li>
+    </ul>
+  </div>
+  
 </div>
 
 
