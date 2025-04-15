@@ -10,23 +10,20 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Tinbergen Institute</h2>
-<p style="margin-left: 20px; font-size: 14px; font-style: italic;">Awarded Teaching Assistant of the Year</p>
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
+  <li>Econometrics II (graduate) – Tutorial slides with R code are available on <a href="https://github.com/stnavdeev/econometrics" target="_blank" style="text-decoration: underline; color: black;">GitHub</a></li>
   <li>
-    Econometrics II (graduate) – 
-    <a href="https://github.com/stnavdeev/econometrics" target="_blank">GitHub</a>
+    Award: Teaching Assistant of the Year
   </li>
 </ul>
+
 
 
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">University of Amsterdam</h2>
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
   <li>Applied Econometrics (undergraduate and graduate)</li>
-  <li>
-    Thesis Supervision (undergraduate) – 
-    <a href="https://docs.google.com/spreadsheets/d/1YHLiJQMbPDYfQJPDgdNKVfN1xAvqri1RxvSQaRvr_OE/edit?usp=sharing" target="_blank">Datasets</a>
-  </li>
+  <li>Thesis Supervision (undergraduate) – A collection of datasets for bachelor students is available <a href="https://docs.google.com/spreadsheets/d/1YHLiJQMbPDYfQJPDgdNKVfN1xAvqri1RxvSQaRvr_OE/edit?usp=sharing" target="_blank" style="text-decoration: underline; color: black;">here</a></li>
   <li>Economics (undergraduate)</li>
 </ul>
 
