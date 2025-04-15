@@ -62,6 +62,15 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
   <p style="margin-bottom: 0; padding-left: 0px;"><i>Oxford Bulletin of Economics and Statistics</i></p>
 
+  <div style="margin-top: 15px; padding-left: 0px;">
+    <h4 style="margin-bottom: 5px; font-weight: bold;">Awards</h4>
+    <ul style="margin-top: 0; padding-left: 20px;">
+      <li>Best Master's Thesis Award in Policy Evaluation by the Accounts Chamber of Russia</li>
+      <li>Best Master's Thesis Award in Economics by the Higher School of Economics</li>
+      <li>Best Master's Thesis Award in Economics by the European University at Saint Petersburg</li>
+    </ul>
+  </div>
+  
     <details>
     <summary style="padding-left: 0px;"> Abstract </summary>
     <p align="justify" style="padding-left: 0px; margin-bottom: 0px;">  
