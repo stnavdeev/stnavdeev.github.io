@@ -97,7 +97,7 @@ author_profile: true
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>
-        Awards: <a href="https://lia.hse.ru/news/508621298.html" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a> by the Accounts Chamber of Russia, <a href="https://www.hse.ru/en/news/research/442327015.html" style="color: black;">Best Master's Thesis Award in Economics</a> by the Higher School of Economics, <a href="https://eusp.org/news/iyun-2020-g-itogi-konkursa-na-luchshuyu-studencheskuyu-rabotu-po-ekonomicheskoy-tematike" style="color: black;">Best Master's Thesis Award in Economics</a> by the European University at Saint Petersburg
+        Awards: <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a> by the Accounts Chamber of Russia, <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a> by the Higher School of Economics, <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a> by the European University at Saint Petersburg
       </li>
       <li>
         Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
