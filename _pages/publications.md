@@ -21,7 +21,7 @@ We use admission lotteries for higher education studies in the Netherlands to in
   <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
     <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
       <li>Co-authors: <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></li>
-      <li>Media: <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;>VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;>Amsterdam School of Economics</a></li>
+      <li>Media: <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;>Amsterdam School of Economics</a></li>
     </ul>
   </div>
   
@@ -43,7 +43,7 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
     <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
       <li>Co-authors: <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.</li>
-      <li>Media: <a href="https://causalinf.substack.com/p/many-analyst-designs-data-preparation" style="color: black;>Scott’s Substack</a></li>
+      <li>Media: <a href="https://causalinf.substack.com/p/many-analyst-designs-data-preparation" style="color: black;">Scott’s Substack</a></li>
     </ul>
   </div>
   
@@ -78,7 +78,7 @@ The Bologna reform, the largest European education reform, was implemented in Ru
   <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
     <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
       <li>Awards: Best Master's Thesis Award in Policy Evaluation by the Accounts Chamber of Russia, Best Master's Thesis Award in Economics by the Higher School of Economics, Best Master's Thesis Award in Economics by the European University at Saint Petersburg</li>
-      <li>Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;>IQ.hse</a></li>
+      <li>Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a></li>
     </ul>
   </div>
   
