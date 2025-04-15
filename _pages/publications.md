@@ -71,7 +71,7 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">A Sustainable Future Research Grant</a>, University of Amsterdam</li>
+      <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">A Sustainable Future Research Grant</a>, Principal Investigator</li>
     </ul>
   </div>
 </div>
