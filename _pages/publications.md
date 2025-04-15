@@ -13,7 +13,7 @@ author_profile: true
   <p style="margin-bottom: 0;"><i>Journal of Public Economics</i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 2px;">Show</a>
+      Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0px;">Show</a>
       <div id="abstractContent" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           We use admission lotteries for higher education studies in the Netherlands to investigate whether someone’s field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
