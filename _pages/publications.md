@@ -15,8 +15,8 @@ author_profile: true
 
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: 
-      <button id="toggleAbstractButton" onclick="toggleVisibility('abstractContent', 'toggleAbstractButton')" style="margin-left: 5px;">Show</button>
+      Abstract:
+      <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent', 'toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 5px;">Show</a>
       <div id="abstractContent" style="display: none; margin-top: 5px; margin-left: 20px;">
         <p align="justify" style="margin-bottom: 0;">
           We use admission lotteries for higher education studies in the Netherlands to investigate whether someone's field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also, younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
@@ -47,8 +47,8 @@ author_profile: true
 
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: 
-      <button id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent', 'toggleAbstractWPButton')" style="margin-left: 5px;">Show</button>
+      Abstract:
+      <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent', 'toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 5px;">Show</a>
       <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 20px;">
         <p align="justify" style="margin-bottom: 0;">
           We use a rigorous three‐stage many‐analysts design to assess how different researcher decisions—specifically data cleaning, research design, and interpretation of a policy question—affect the variation in estimated treatment effects. [Rest of abstract text…]
@@ -58,7 +58,7 @@ author_profile: true
   </ul>
 
   <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
-    <ul style="margin-top: 0; padding-left: 20px; margin-bottom: 0;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Co-authors: <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.</li>
       <li>Media: <a href="https://causalinf.substack.com/p/many-analyst-designs-data-preparation" style="color: black;">Scott’s Substack</a></li>
     </ul>
@@ -71,7 +71,7 @@ author_profile: true
 <div style="padding-left: 0px;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
   <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
-    <ul style="margin-top: 0; padding-left: 20px; margin-bottom: 0;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Grant: A Sustainable Future research grant from the University of Amsterdam</li>
     </ul>
   </div>
@@ -89,8 +89,8 @@ author_profile: true
   
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: 
-      <button id="toggleAbstractPPButton" onclick="toggleVisibility('abstractPPContent', 'toggleAbstractPPButton')" style="margin-left: 5px;">Show</button>
+      Abstract:
+      <a href="#" id="toggleAbstractPPButton" onclick="toggleVisibility('abstractPPContent', 'toggleAbstractPPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 5px;">Show</a>
       <div id="abstractPPContent" style="display: none; margin-top: 5px; margin-left: 20px;">
         <p align="justify" style="margin-bottom: 0;">
           The Bologna reform—the largest European education reform—was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programmes by 1 year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. However, null average wage effects mask considerable heterogeneity… [rest of abstract text]
@@ -100,7 +100,7 @@ author_profile: true
   </ul>
   
   <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
-    <ul style="margin-top: 0; padding-left: 20px; margin-bottom: 0;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Awards: Best Master's Thesis Award in Policy Evaluation by the Accounts Chamber of Russia, Best Master's Thesis Award in Economics by the Higher School of Economics, Best Master's Thesis Award in Economics by the European University at Saint Petersburg</li>
       <li>Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a></li>
     </ul>
@@ -114,8 +114,8 @@ author_profile: true
   
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: 
-      <button id="toggleAbstractPPButton2" onclick="toggleVisibility('abstractPPContent2', 'toggleAbstractPPButton2')" style="margin-left: 5px;">Show</button>
+      Abstract:
+      <a href="#" id="toggleAbstractPPButton2" onclick="toggleVisibility('abstractPPContent2', 'toggleAbstractPPButton2'); return false;" style="text-decoration: underline; color: black; margin-left: 5px;">Show</a>
       <div id="abstractPPContent2" style="display: none; margin-top: 5px; margin-left: 20px;">
         <p align="justify" style="margin-bottom: 0;">
           Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education research. This paper studies collaboration patterns in higher education research using a gravity model approach… [rest of abstract text]
@@ -127,15 +127,15 @@ author_profile: true
 
 <!-- Generic JavaScript function for toggling content -->
 <script>
-  function toggleVisibility(contentId, buttonId) {
+  function toggleVisibility(contentId, linkId) {
     var content = document.getElementById(contentId);
-    var btn = document.getElementById(buttonId);
+    var link = document.getElementById(linkId);
     if (content.style.display === "none") {
       content.style.display = "block";
-      btn.textContent = "Hide";
+      link.textContent = "Hide";
     } else {
       content.style.display = "none";
-      btn.textContent = "Show";
+      link.textContent = "Show";
     }
   }
 </script>
