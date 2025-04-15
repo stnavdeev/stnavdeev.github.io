@@ -16,7 +16,7 @@ author_profile: true
       Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 2px;">Show</a>
       <div id="abstractContent" style="display: none; margin-top: 5px; margin-left: 20px;">
         <p align="justify" style="margin-bottom: 0;">
-          We use admission lotteries for higher education studies in the Netherlands to investigate whether someone’s field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also, younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
+          We use admission lotteries for higher education studies in the Netherlands to investigate whether someone’s field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
         </p>
       </div>
     </li>
@@ -45,7 +45,7 @@ author_profile: true
       Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 2px;">Show</a>
       <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 20px;">
         <p align="justify" style="margin-bottom: 0;">
-          We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. [Rest of abstract text…]
+          We use a rigorous three-stage many-analysts design to assess how different researcher decisions—specifically data cleaning, research design, and the interpretation of a policy question—affect the variation in estimated treatment effects. A total of 146 research teams each completed the same causal inference task three times each: first with few constraints, then using a shared research design, and finally with pre-cleaned data in addition to a specified design. We find that even when analyzing the same data, teams reach different conclusions. In the first stage, the interquartile range (IQR) of the reported policy effect was 3.1 percentage points, with substantial outliers. Surprisingly, the second stage, which restricted research design choices, exhibited slightly higher IQR (4.0 percentage points), largely attributable to imperfect adherence to the prescribed protocol. By contrast, the final stage, featuring standardized data cleaning, narrowed variation in estimated effects, achieving an IQR of 2.4 percentage points. Reported sample sizes also displayed significant convergence under more restrictive conditions, with the IQR dropping from 295,187 in the first stage to 29,144 in the second, and effectively zero by the third. Our findings underscore the critical importance of data cleaning in shaping applied microeconomic results and highlight avenues for future replication efforts.
         </p>
       </div>
     </li>
@@ -71,7 +71,7 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctors' Quality and Patient Outcomes</h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">A Sustainable Future Research Grant</a>, Faculty of Economics and Business, University of Amsterdam</li>
+      <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">A Sustainable Future Research Grant</a>, University of Amsterdam</li>
     </ul>
   </div>
 </div>
@@ -97,7 +97,7 @@ author_profile: true
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>
-        Awards: Best Master's Thesis Award in Policy Evaluation by the Accounts Chamber of Russia, Best Master's Thesis Award in Economics by the Higher School of Economics, Best Master's Thesis Award in Economics by the European University at Saint Petersburg
+        Awards: <a href="https://lia.hse.ru/news/508621298.html" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a> by the Accounts Chamber of Russia, <a href="https://www.hse.ru/en/news/research/442327015.html" style="color: black;">Best Master's Thesis Award in Economics</a> by the Higher School of Economics, <a href="https://eusp.org/news/iyun-2020-g-itogi-konkursa-na-luchshuyu-studencheskuyu-rabotu-po-ekonomicheskoy-tematike" style="color: black;">Best Master's Thesis Award in Economics</a> by the European University at Saint Petersburg
       </li>
       <li>
         Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
@@ -115,7 +115,7 @@ author_profile: true
       Abstract: <a href="#" id="toggleAbstractPPButton2" onclick="toggleVisibility('abstractPPContent2','toggleAbstractPPButton2'); return false;" style="text-decoration: underline; color: black; margin-left: 2px;">Show</a>
       <div id="abstractPPContent2" style="display: none; margin-top: 5px; margin-left: 20px;">
         <p align="justify" style="margin-bottom: 0;">
-          Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
+          Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic com- monality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
         </p>
       </div>
     </li>
