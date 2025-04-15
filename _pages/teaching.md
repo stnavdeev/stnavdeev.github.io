@@ -17,8 +17,8 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">University of Amsterdam</h2>
 <ul style="margin-top: 7.5px; margin-left: 0; padding-left: 20px;">
-  <li>Applied Econometrics (bachelor- and master-level)</li>
   <li>Thesis Supervision (bachelor-level) – A collection of datasets is available <a href="https://docs.google.com/spreadsheets/d/1YHLiJQMbPDYfQJPDgdNKVfN1xAvqri1RxvSQaRvr_OE/edit?usp=sharing">here</a></li>
+  <li>Applied Econometrics (bachelor- and master-level)</li>
   <li>Economics (bachelor-level)</li>
 </ul>
 
