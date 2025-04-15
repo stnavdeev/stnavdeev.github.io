@@ -10,10 +10,10 @@ author_profile: true
   
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a></h3> 
   <p style="margin-bottom: 0; padding-left: 0px;"> <i>Journal of Public Economics</i></p>
-  <p style="margin-bottom: 0; padding-left: 0px;">with <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></p>
 
   <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
     <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
+      <li>Co-authors: <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a></li>
       <li>Media: <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html">Amsterdam School of Economics</a></li>
     </ul>
   </div>
@@ -32,8 +32,13 @@ We use admission lotteries for higher education studies in the Netherlands to in
 <div style="padding-left: 0px;"> 
   
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Researcher_Variation.pdf">The Sources of Researcher Variation in Economics</a></h3> 
-  <p style="margin-bottom: 0; padding-left: 0px;">with <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.</p>
-
+  <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
+    <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
+      <li>Co-authors: <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.</li>
+      <li>Media: <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices">VoxEU</a>, <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html">Amsterdam School of Economics</a></li>
+    </ul>
+  </div>
+  
     <details>
     <summary style="padding-left: 0px;"> Abstract </summary>
     <p align="justify" style="padding-left: 0px; margin-bottom: 0px;">  
@@ -55,7 +60,7 @@ We use a rigorous three-stage many-analysts design to assess how different resea
 
 <div style="margin-top: 5px; padding-left: 0px; font-size: 14px;">
     <ul style="margin-top: 0px; padding-left: 20px; margin-bottom: 0px;">
-      <li>Funded by the A Sustainable Future (ASF) grant from the University of Amsterdam.</li>
+      <li>Grant: A Sustainable Future grant from the University of Amsterdam</li>
     </ul>
   </div>
   
