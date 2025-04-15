@@ -11,9 +11,9 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Tinbergen Institute</h2>
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li>Econometrics II (graduate) – Tutorial slides with R code are available on <a href="https://github.com/stnavdeev/econometrics" target="_blank" style="text-decoration: underline; color: black;">GitHub</a></li>
+  <li>Econometrics II (graduate) – Tutorial slides with R code are available on <a href="https://github.com/stnavdeev/econometrics">GitHub</a>
   <li>
-    Award: Teaching Assistant of the Year
+    Award: <a href="https://tinbergen.nl/news/813/diploma-ceremony-student-cohort-of-2020-2022?year=2022&month=11&day=25">Teaching Assistant of the Year</a>
   </li>
 </ul>
 
@@ -23,7 +23,7 @@ My primary teaching focus is econometrics. In my classes, I use data simulated b
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">University of Amsterdam</h2>
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
   <li>Applied Econometrics (undergraduate and graduate)</li>
-  <li>Thesis Supervision (undergraduate) – A collection of datasets for bachelor students is available <a href="https://docs.google.com/spreadsheets/d/1YHLiJQMbPDYfQJPDgdNKVfN1xAvqri1RxvSQaRvr_OE/edit?usp=sharing" target="_blank" style="text-decoration: underline; color: black;">here</a></li>
+  <li>Thesis Supervision (undergraduate) – A collection of datasets for students is available <a href="[https://tinbergen.nl/news/813/diploma-ceremony-student-cohort-of-2020-2022?year=2022&month=11&day=25](https://docs.google.com/spreadsheets/d/1YHLiJQMbPDYfQJPDgdNKVfN1xAvqri1RxvSQaRvr_OE/edit?usp=sharing)">here</a> 
   <li>Economics (undergraduate)</li>
 </ul>
 
