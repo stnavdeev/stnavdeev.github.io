@@ -62,12 +62,10 @@ We use a rigorous three-stage many-analysts design to assess how different resea
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a></h3>
   <p style="margin-bottom: 0; padding-left: 0px;"><i>Oxford Bulletin of Economics and Statistics</i></p>
 
-  <div style="margin-top: 15px; padding-left: 0px;">
-    <h4 style="margin-bottom: 5px; font-weight: bold;">Awards</h4>
+  <div style="margin-top: 5px; padding-left: 0px;">
     <ul style="margin-top: 0; padding-left: 20px;">
-      <li>Best Master's Thesis Award in Policy Evaluation by the Accounts Chamber of Russia</li>
-      <li>Best Master's Thesis Award in Economics by the Higher School of Economics</li>
-      <li>Best Master's Thesis Award in Economics by the European University at Saint Petersburg</li>
+      <li>Awards: Best Master's Thesis Award in Policy Evaluation by the Accounts Chamber of Russia, Best Master's Thesis Award in Economics by the Higher School of Economics, Best Master's Thesis Award in Economics by the European University at Saint Petersburg</li>
+      <li>Media: <a href="https://iq.hse.ru/en/news/480499696.html">IQ.hse</a></li>
     </ul>
   </div>
   
@@ -75,13 +73,6 @@ We use a rigorous three-stage many-analysts design to assess how different resea
     <summary style="padding-left: 0px;"> Abstract </summary>
     <p align="justify" style="padding-left: 0px; margin-bottom: 0px;">  
 The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programmes by 1 year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. However, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns worked less during their studies, invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
-    </p>
-  </details>
-  
-  <details>
-    <summary style="padding-left: 0px;"> Media </summary>
-    <p align="justify" style="padding-left: 0px; margin-top: 0px;">
-      <a href="https://iq.hse.ru/en/news/480499696.html">IQ.hse</a>
     </p>
   </details>
   
