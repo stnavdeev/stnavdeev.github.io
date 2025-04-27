@@ -27,6 +27,10 @@ author_profile: true
       <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a>
     </li>
     <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/1KFQI2TngQaSYDFsSTj2bR?si=3abca2453cbb47dd" style="color: black;">Spotify</a>
+    </li>
+    <li>
       Media:
       <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>, 
       <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;">Amsterdam School of Economics</a>
@@ -57,6 +61,10 @@ author_profile: true
         <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, 
         <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.
       </li>
+      <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/4Tiks8E17GqSnqKniL5Nx9?si=413875fc1c594ce6" style="color: black;">Spotify</a>
+    </li>
       <li>
         Media:
         <a href="https://causalinf.substack.com/p/many-analyst-designs-data-preparation" style="color: black;">Scott’s Substack</a>
@@ -100,6 +108,10 @@ author_profile: true
         Awards: <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a> by the Accounts Chamber of Russia, <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a> by the Higher School of Economics, <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a> by the European University at Saint Petersburg, <a href="https://www.hse.ru/scholarships/news/323665835.html" style="color: black;">Oxford Russia Scholarship</a> by the Oxford Russia Fund
       </li>
       <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/1F72WxgjuiyKjxl15qYHVL?si=f9671e272eba4695" style="color: black;">Spotify</a>
+    </li>
+      <li>
         Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
       </li>
     </ul>
@@ -118,6 +130,10 @@ author_profile: true
           Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
         </p>
       </div>
+    </li>
+    <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/3Vi7Fq922aHpXKUTkIXaM8?si=989e5f7ec880480f" style="color: black;">Spotify</a>
     </li>
   </ul>
 </div>
