@@ -28,7 +28,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/1KFQI2TngQaSYDFsSTj2bR?si=3abca2453cbb47dd" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>
     </li>
     <li>
       Media:
@@ -63,7 +63,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/4Tiks8E17GqSnqKniL5Nx9?si=413875fc1c594ce6" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>
     </li>
       <li>
         Media:
@@ -109,7 +109,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/1F72WxgjuiyKjxl15qYHVL?si=c3a8cbbf17834c01" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>
     </li>
       <li>
         Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
@@ -133,7 +133,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/3Vi7Fq922aHpXKUTkIXaM8?si=989e5f7ec880480f" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=bmT5ELnhQGuZdzxiB00hng" style="color: black;">Spotify</a>
     </li>
   </ul>
 </div>
