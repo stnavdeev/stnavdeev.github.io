@@ -28,7 +28,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/1KFQI2TngQaSYDFsSTj2bR?si=3abca2453cbb47dd" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/1KFQI2TngQaSYDFsSTj2bR?si=3abca2453cbb47dd" style="color: black;">Spotify</a>, <a href="https://podcasters.spotify.com/pod/show/stanislav-avdeev/episodes/How-Family-and-Neighbors-Influence-What-You-Study-e322igm" style="color: black;">Apple</a>
     </li>
     <li>
       Media:
@@ -63,7 +63,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/4Tiks8E17GqSnqKniL5Nx9?si=413875fc1c594ce6" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/4Tiks8E17GqSnqKniL5Nx9?si=413875fc1c594ce6" style="color: black;">Spotify</a>, <a href="https://podcasters.spotify.com/pod/show/stanislav-avdeev/episodes/Why-Different-Researchers-Get-Different-Results-e322jdr" style="color: black;">Apple</a>
     </li>
       <li>
         Media:
@@ -109,7 +109,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/1F72WxgjuiyKjxl15qYHVL?si=f9671e272eba4695" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/1F72WxgjuiyKjxl15qYHVL?si=f9671e272eba4695" style="color: black;">Spotify</a>, <a href="https://podcasters.spotify.com/pod/show/stanislav-avdeev/episodes/Impact-of-the-Bologna-Reform-on-the-Labour-Market-in-Russia-e322iqt" style="color: black;">Apple</a>
     </li>
       <li>
         Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
@@ -133,7 +133,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/3Vi7Fq922aHpXKUTkIXaM8?si=989e5f7ec880480f" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/3Vi7Fq922aHpXKUTkIXaM8?si=989e5f7ec880480f" style="color: black;">Spotify</a>, <a href="https://podcasters.spotify.com/pod/show/stanislav-avdeev/episodes/How-Geography-and-Language-Shape-International-Research-Collaboration-e322j9e" style="color: black;">Apple</a>
     </li>
   </ul>
 </div>
