@@ -28,7 +28,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162278" style="color: black;">Apple</a>
     </li>
     <li>
       Media:
@@ -63,7 +63,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162382" style="color: black;">Apple</a>
     </li>
       <li>
         Media:
@@ -109,7 +109,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162318" style="color: black;">Apple</a>
     </li>
       <li>
         Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
@@ -133,7 +133,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=bmT5ELnhQGuZdzxiB00hng" style="color: black;">Spotify</a>
+      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=bmT5ELnhQGuZdzxiB00hng" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162180" style="color: black;">Apple</a>
     </li>
   </ul>
 </div>
