@@ -20,7 +20,6 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 </h2>
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li><a href="http://rios-vu.nl/rios-symposium/" target="_blank">Amsterdam Meta Science Network Seminar</a>, 8 May, Amsterdam, the Netherlands</li>
   <li><a href="https://www.cesifo.org/en/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" target="_blank">CESifo/ifo Junior Workshop on the Economics of Education</a>, 12–13 May, Munich, Germany</li>
   <li><a href="https://asf.uva.nl/content/events/2025/05/seems-seminar-with-stanislav-avdeev-ase-uva--justin-starreveld-abs-uva.html?origin=bg7%2BbsTPS7mnmftCfYyi1A" target="_blank">University of Amsterdam Seminar on Sustainability (SEEMS)</a>, 26 May, Amsterdam, the Netherlands</li>
   <li><a href="https://demm.unimi.it/en/call-applications-4th-junior-economists-meeting-unimi-jem25" target="_blank">Junior Economists Meeting (UniMi-JEM25)</a>, 29-30 May, Milan, Italy</li>
