@@ -26,6 +26,5 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
   <li><a href="https://www.espe2025naples.com" target="_blank">Annual Conference of the European Society for Population Economics (ESPE)</a>, 12-14 June, Naples, Italy</li>
   <li><a href="https://iwaee.org/new/" target="_blank">International Workshop on Applied Economics of Education (IWAEE)</a>, 15-17 June, Catanzaro, Italy</li>
   <li><a href="https://economig2025.sciencesconf.org" target="_blank">The Economics of Migration Junior Workshop</a>, 23-24 June, Clermont-Ferrand, France</li>
-  <li><a href="https://www.sole-jole.org/upcoming-meeting" target="_blank">World Labor Conference SOLE-EALE-AASLE</a>, 27-29 June, Toronto, Canada</li>
 </ul>
 
