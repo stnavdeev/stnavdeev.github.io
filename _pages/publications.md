@@ -76,6 +76,13 @@ author_profile: true
 <!-- Work in Progress Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0px;"> 
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">University as a Melting Pot: Long-term Effects of Internationalization</h3>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Awards: <a href="https://www.espe.org" style="color: black;">PhD Prize Finalist</a> by the European Society for Population Economics</li>
+    </ul>
+  </div>
+  
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patient Outcomes</h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
