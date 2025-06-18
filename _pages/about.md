@@ -20,8 +20,6 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 </h2>
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li><a href="https://www.espe2025naples.com" target="_blank">Annual Conference of the European Society for Population Economics (ESPE)</a>, 12-14 June, Naples, Italy</li>
-  <li><a href="https://iwaee.org/new/" target="_blank">International Workshop on Applied Economics of Education (IWAEE)</a>, 15-17 June, Catanzaro, Italy</li>
   <li><a href="https://economig2025.sciencesconf.org" target="_blank">The Economics of Migration Junior Workshop</a>, 23-24 June, Clermont-Ferrand, France</li>
 </ul>
 
