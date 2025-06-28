@@ -42,7 +42,7 @@ author_profile: true
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
     <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">University as a Melting Pot: Long-term Effects of Internationalization</h3>
-  <p style="margin-bottom: 0;"><i>Revise & Resubmit at American Economic Journal: Applied Economics</i></p>
+  <p style="margin-bottom: 0;"><i>Revise & Resubmit at <b><b>American Economic Journal: Applied Economics</b></i></p>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Awards: <a href="https://www.espe.org/news" style="color: black;">Best Paper Award</a> at the Annual Conference of the European Society for Population Economics, <a href="https://www.ifo.de/en/cesifo/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" style="color: black;">Best Paper Award</a> at the CESifo/ifo Junior Workshop on the Economics of Education</li>
