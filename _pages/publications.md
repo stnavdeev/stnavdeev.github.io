@@ -10,7 +10,7 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a>
   </h3>
-  <p style="margin-bottom: 0;"><i>Journal of Public Economics</i></p>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b></i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
@@ -42,7 +42,7 @@ author_profile: true
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
     <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">University as a Melting Pot: Long-term Effects of Internationalization</h3>
-  <p style="margin-bottom: 0;"><i>Revise & Resubmit at <b><b>American Economic Journal: Applied Economics</b></i></p>
+  <p style="margin-bottom: 0;"><i>Revise & Resubmit at <b>American Economic Journal: Applied Economics</b></i></p>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Awards: <a href="https://www.espe.org/news" style="color: black;">Best Paper Award</a> at the Annual Conference of the European Society for Population Economics, <a href="https://www.ifo.de/en/cesifo/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" style="color: black;">Best Paper Award</a> at the CESifo/ifo Junior Workshop on the Economics of Education</li>
@@ -100,7 +100,7 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a>
   </h3>
-  <p style="margin-bottom: 0;"><i>Oxford Bulletin of Economics and Statistics</i></p>
+  <p style="margin-bottom: 0;"><i><b></b>Oxford Bulletin of Economics and Statistics</b></i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractPPButton" onclick="toggleVisibility('abstractPPContent','toggleAbstractPPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
@@ -130,7 +130,7 @@ author_profile: true
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a>
   </h3>
-  <p style="margin-bottom: 0;"><i>Scientometrics</i></p>
+  <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractPPButton2" onclick="toggleVisibility('abstractPPContent2','toggleAbstractPPButton2'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
