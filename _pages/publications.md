@@ -100,7 +100,7 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a>
   </h3>
-  <p style="margin-bottom: 0;"><i><b></b>Oxford Bulletin of Economics and Statistics</b></i></p>
+  <p style="margin-bottom: 0;"><i><b>Oxford Bulletin of Economics and Statistics</b></i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractPPButton" onclick="toggleVisibility('abstractPPContent','toggleAbstractPPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
