@@ -24,7 +24,7 @@ author_profile: true
       Co-authors:
       <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, 
       <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and 
-      <a href="https://research.vu.nl/en/persons/bas-van-der-klaauw" style="color: black;">Bas van der Klaauw</a>
+      <a href="https://sites.google.com/view/basvanderklaauw/home" style="color: black;">Bas van der Klaauw</a>
     </li>
     <li>
       Podcast:
