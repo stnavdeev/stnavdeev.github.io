@@ -41,7 +41,7 @@ author_profile: true
 <!-- Pre-PhD Publications Section -->
 
   <!-- First Pre-PhD Publication -->
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a>
   </h3>
   <p style="margin-bottom: 0;"><i><b>Oxford Bulletin of Economics and Statistics</b></i></p>
