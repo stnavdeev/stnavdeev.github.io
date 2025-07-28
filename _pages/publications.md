@@ -90,7 +90,7 @@ author_profile: true
     </li>
   </ul>
 </div>
-
+</div>
 
 <!-- Working Papers Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
