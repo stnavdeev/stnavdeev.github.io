@@ -128,6 +128,23 @@ author_profile: true
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Other Publications</h2>
 <div style="padding-left: 0;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+<a href="https://id.hse.ru/books/1040796649.html">Translation into Russian: Models Based on Panel Data</a>
+  </h3>
+  <p style="margin-bottom: 0;"><i><b>A Guide to Modern Econometrics</b></i>, by Marno Verbeek</p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractPPButton4" onclick="toggleVisibility('abstractPPContent4','toggleAbstractPPButton4'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractPPContent4" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          This is the Russian translation of the 5th edition of Marno Verbeek’s widely used econometrics textbook <i>A Guide to Modern Econometrics</i>. The translation makes advanced panel data methods accessible to Russian-speaking students and researchers, supporting econometrics training in graduate programs and professional courses. I contributed as translator of Chapter 10, <i>Models Based on Panel Data</i>.
+        </p>
+      </div>
+    </li>
+  </ul>
+</div>
+
+
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a>
   </h3>
   <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i></p>
@@ -137,23 +154,6 @@ author_profile: true
       <div id="abstractContent3" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
-        </p>
-      </div>
-    </li>
-  </ul>
-</div>
-
-
-  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://id.hse.ru/books/1040796649.html">Translation into Russian: Models Based on Panel Data</a>
-  </h3>
-  <p style="margin-bottom: 0;"><i><b>A Guide to Modern Econometrics</b></i>, by Marno Verbeek</p>
-  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractPPButton4" onclick="toggleVisibility('abstractPPContent4','toggleAbstractPPButton4'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractPPContent4" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
-          This is the Russian translation of the 5th edition of Marno Verbeek’s widely used econometrics textbook <i>A Guide to Modern Econometrics</i>. The translation makes advanced panel data methods accessible to Russian-speaking students and researchers, supporting econometrics training in graduate programs and professional courses. I contributed as translator of Chapter 10, <i>Models Based on Panel Data</i>.
         </p>
       </div>
     </li>
