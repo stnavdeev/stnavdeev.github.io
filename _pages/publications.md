@@ -125,6 +125,47 @@ author_profile: true
 </div>
 
 
+<h2 style="margin-top: 0; font-weight: bold; text-align: left;">Other Publications</h2>
+<div style="padding-left: 0;"> 
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a>
+  </h3>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b></i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractButton3" onclick="toggleVisibility('abstractContent3','toggleAbstractButton3'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractContent3" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          We use admission lotteries for higher education studies in the Netherlands to investigate whether someone’s field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
+        </p>
+      </div>
+    </li>
+  </ul>
+</div>
+
+
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a>
+  </h3>
+  <p style="margin-bottom: 0;"><i><b>Oxford Bulletin of Economics and Statistics</b></i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractPPButton4" onclick="toggleVisibility('abstractPPContent4','toggleAbstractPPButton4'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractPPContent4" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programmes by 1 year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. However, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns worked less during their studies, invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
+        </p>
+      </div>
+    </li>
+  </ul>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+    </ul>
+  </div>
+
+
+
+
 
 <!-- Generic JavaScript Function for Toggle -->
 <script>
