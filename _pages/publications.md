@@ -149,7 +149,7 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
 <a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a>
   </h3>
-  <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i>, by Marno Verbeek</p>
+  <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractPPButton5" onclick="toggleVisibility('abstractPPContent5','toggleAbstractPPButton5'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
