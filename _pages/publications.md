@@ -153,7 +153,7 @@ author_profile: true
       Abstract: <a href="#" id="toggleAbstractPPButton4" onclick="toggleVisibility('abstractPPContent4','toggleAbstractPPButton4'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="abstractPPContent4" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
-          A Guide to Modern Econometrics, 5th Edition has become established as a highly successful textbook. It serves as a guide to alternative techniques in econometrics with an emphasis on intuition and the practical implementation of these approaches. This fifth edition builds upon the success of its predecessors. The text has been carefully checked and updated, taking into account recent developments and insights. It includes new material on causal inference, the use and limitation of p-values, instrumental variables estimation and its implementation, regression discontinuity design, standardized coefficients, and the presentation of estimation results.
+          This is the Russian translation of the 5th edition of Marno Verbeek’s widely used econometrics textbook <i>A Guide to Modern Econometrics</i>. The translation makes advanced panel data methods accessible to Russian-speaking students and researchers, supporting econometrics training in graduate programs and professional courses. I contributed as translator of Chapter 10, <i>Models Based on Panel Data</i>.
         </p>
       </div>
     </li>
