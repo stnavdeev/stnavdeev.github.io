@@ -4,7 +4,6 @@ title:
 author_profile: true
 ---
 
-<!-- Publications Section -->
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
 <div style="padding-left: 0;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
@@ -38,9 +37,7 @@ author_profile: true
   </ul>
 </div>
 
-<!-- Pre-PhD Publications Section -->
 
-  <!-- First Pre-PhD Publication -->
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a>
   </h3>
@@ -69,6 +66,49 @@ author_profile: true
       </li>
     </ul>
   </div>
+
+
+
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Other Publications</h2>
+<div style="padding-left: 0px;"> 
+
+
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a>
+  </h3>
+  <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractPPButton2" onclick="toggleVisibility('abstractPPContent2','toggleAbstractPPButton2'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractPPContent2" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
+        </p>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a>
+  </h3>
+  <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractPPButton2" onclick="toggleVisibility('abstractPPContent2','toggleAbstractPPButton2'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractPPContent2" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
+        </p>
+      </div>
+    </li>
+    <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=bmT5ELnhQGuZdzxiB00hng" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162180" style="color: black;">Apple</a>
+    </li>
+  </ul>
+</div>
 
 
 <!-- Working Papers Section -->
@@ -126,32 +166,6 @@ author_profile: true
     </ul>
   </div>
 </div>
-
-
-<!-- Pre-PhD Publications Section -->
-<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Other Publications</h2>
-<div style="padding-left: 0px;"> 
-  
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a>
-  </h3>
-  <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i></p>
-  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractPPButton2" onclick="toggleVisibility('abstractPPContent2','toggleAbstractPPButton2'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractPPContent2" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
-          Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
-        </p>
-      </div>
-    </li>
-    <li>
-      Podcast:
-      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=bmT5ELnhQGuZdzxiB00hng" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162180" style="color: black;">Apple</a>
-    </li>
-  </ul>
-</div>
-
 
 
 
