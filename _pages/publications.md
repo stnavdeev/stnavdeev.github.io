@@ -38,36 +38,6 @@ author_profile: true
 </div>
 
 
-  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a>
-  </h3>
-  <p style="margin-bottom: 0;"><i><b>Oxford Bulletin of Economics and Statistics</b></i></p>
-  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractPPButton" onclick="toggleVisibility('abstractPPContent','toggleAbstractPPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractPPContent" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
-          The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programmes by 1 year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. However, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns worked less during their studies, invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
-        </p>
-      </div>
-    </li>
-  </ul>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>
-        Awards: <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a> by the Higher School of Economics, <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a> by the European University at Saint Petersburg, <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a> by the Accounts Chamber of Russia, <a href="https://www.hse.ru/scholarships/news/323665835.html" style="color: black;">Oxford Russia Scholarship</a> by the Oxford Russia Fund
-      </li>
-      <li>
-      Podcast:
-      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162318" style="color: black;">Apple</a>
-    </li>
-      <li>
-        Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
-      </li>
-    </ul>
-  </div>
-
-
 <!-- Working Papers Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
@@ -147,6 +117,36 @@ author_profile: true
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Pre-PhD Publications</h2>
 <div style="padding-left: 0;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://stnavdeev.github.io/Avdeev_Bologna.pdf">Balancing Study and Work: Heterogeneous Impact of the Bologna Reform on the Labour Market</a>
+  </h3>
+  <p style="margin-bottom: 0;"><i><b>Oxford Bulletin of Economics and Statistics</b></i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractPPButton" onclick="toggleVisibility('abstractPPContent','toggleAbstractPPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractPPContent" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          The Bologna reform, the largest European education reform, was implemented in Russia in 2011. The reform shortened the duration of some undergraduate programmes by 1 year and compressed their curricula. Using a difference-in-differences design, I find that the reform had no short- or medium-term adverse effects on employment. However, I find that null average effects on wages mask considerable heterogeneity. I find that female students with high relative returns worked less during their studies, invested in their human capital, and secured stable wages. In contrast, male students with low relative returns underinvested in human capital and experienced a decline in wages.
+        </p>
+      </div>
+    </li>
+  </ul>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>
+        Awards: <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a> by the Higher School of Economics, <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a> by the European University at Saint Petersburg, <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a> by the Accounts Chamber of Russia, <a href="https://www.hse.ru/scholarships/news/323665835.html" style="color: black;">Oxford Russia Scholarship</a> by the Oxford Russia Fund
+      </li>
+      <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162318" style="color: black;">Apple</a>
+    </li>
+      <li>
+        Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
+      </li>
+    </ul>
+  </div>
+
+
+  <h3 style="margin-top:15px; margin-bottom: 5px; font-weight: normal;">
 <a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">International Collaboration in Higher Education Research: A Gravity Model Approach</a>
   </h3>
   <p style="margin-bottom: 0;"><i><b>Scientometrics</b></i></p>
