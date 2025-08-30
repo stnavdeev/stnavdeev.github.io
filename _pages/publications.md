@@ -133,7 +133,7 @@ author_profile: true
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>
-        Awards: <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a>, Higher School of Economics; <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a>, European University at Saint Petersburg; <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a>, Accounts Chamber of Russia; <a href="https://www.hse.ru/scholarships/news/323665835.html" style="color: black;">Scholarship</a> by the Oxford Russia Fund
+        Awards: <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a>, Higher School of Economics; <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a>, European University at Saint Petersburg; <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a>, Accounts Chamber of Russia; <a href="https://www.hse.ru/scholarships/news/323665835.html" style="color: black;">Scholarship</a>, Oxford Russia Fund
       </li>
       <li>
       Podcast:
