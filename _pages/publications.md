@@ -82,14 +82,14 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">University as a Melting Pot: Long-term Effects of Internationalization</h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Awards: <a href="https://www.espe.org/news" style="color: black;">Best Paper Award</a> at the Annual Conference of the European Society for Population Economics, <a href="https://www.ifo.de/en/cesifo/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" style="color: black;">Best Paper Award</a> at the CESifo/ifo Junior Workshop on the Economics of Education</li>
+      <li>Awards: <a href="https://www.espe.org/news" style="color: black;">Best Paper Award</a>, Annual Conference of the European Society for Population Economics; <a href="https://www.ifo.de/en/cesifo/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" style="color: black;">Best Paper Award</a>, CESifo/ifo Junior Workshop on the Economics of Education</li>
     </ul>
   </div>
   
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patient Outcomes</h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">A Sustainable Future Research Grant</a>, Principal Investigator</li>
+      <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">Research Grant</a>, Principal Investigator, A Sustainable Future Initiative</li>
     </ul>
   </div>
 </div>
@@ -106,7 +106,7 @@ author_profile: true
       Abstract: <a href="#" id="toggleAbstractPPButton4" onclick="toggleVisibility('abstractPPContent4','toggleAbstractPPButton4'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="abstractPPContent4" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
-          This is the Russian translation of the 5th edition of Marno Verbeek’s widely used econometrics textbook <i>A Guide to Modern Econometrics</i>. The translation makes advanced econometric methods accessible to Russian-speaking students and researchers, supporting econometrics training in graduate programs and professional courses. I contributed as translator of Chapter 10, <i>Models Based on Panel Data</i>.
+          This is the Russian translation of the 5th edition of Marno Verbeek’s econometrics textbook <i>A Guide to Modern Econometrics</i>. The translation makes advanced econometric methods accessible to Russian-speaking students and researchers, supporting econometrics training in graduate programs and professional courses. I contributed as translator of Chapter 10, <i>Models Based on Panel Data</i>.
         </p>
       </div>
     </li>
@@ -133,7 +133,7 @@ author_profile: true
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>
-        Awards: <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a> by the Higher School of Economics, <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a> by the European University at Saint Petersburg, <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a> by the Accounts Chamber of Russia, <a href="https://www.hse.ru/scholarships/news/323665835.html" style="color: black;">Oxford Russia Scholarship</a> by the Oxford Russia Fund
+        Awards: <a href="https://www.hse.ru/en/nirs/" style="color: black;">Best Master's Thesis Award in Economics</a>, Higher School of Economics, <a href="https://eusp.org/en" style="color: black;">Best Master's Thesis Award in Economics</a>, European University at Saint Petersburg, <a href="https://ach.gov.ru/en" style="color: black;">Best Master's Thesis Award in Policy Evaluation</a>, Accounts Chamber of Russia, <a href="https://www.hse.ru/scholarships/news/323665835.html" style="color: black;">Scholarship</a> by the Oxford Russia Fund
       </li>
       <li>
       Podcast:
