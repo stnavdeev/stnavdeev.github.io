@@ -83,6 +83,7 @@ author_profile: true
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Awards: <a href="https://www.espe.org/news" style="color: black;">Best Paper Award</a>, Annual Conference of the European Society for Population Economics; <a href="https://www.ifo.de/en/cesifo/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" style="color: black;">Best Paper Award</a>, CESifo/ifo Junior Workshop on the Economics of Education</li>
+      <li>Grant: <a href="https://www.eaie.org" style="color: black;">Research Grant</a>, Principal Investigator, European Association for International Education</li>
     </ul>
   </div>
   
