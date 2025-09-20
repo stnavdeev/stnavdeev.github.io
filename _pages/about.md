@@ -18,7 +18,5 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 </h2>
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li><a href="https://www.sv.uio.no/econ/english/research/news-and-events/events/guest-lectures-seminars/department-seminar/2025/2025-09-15-avdeev" target="_blank">University of Oslo Department of Economics Seminar</a>, 15 September, Oslo, Norway</li>
-  <li><a href="https://eale.org/conference/eale-2025-oslo/general-information" target="_blank">European Association of Law and Economics (EALE) Conference</a>, 18-19 September, Oslo, Norway</li>
   <li><a href="https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/" target="_blank">Interdisciplinary Brown Bag Seminar of Behavioral Sciences</a>, 23 October, Maastricht, the Netherlands</li>
 </ul>
