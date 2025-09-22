@@ -80,6 +80,15 @@ author_profile: true
 <div style="padding-left: 0px;"> 
 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">University as a Melting Pot: Long-term Effects of Internationalization</h3>
+<ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent6','toggleAbstractButton6'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractContent6" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          The increasing globalization of higher education has sparked debates about the impact of international student presence on natives. This paper provides the first evidence on the impact of exposure to international students on the long-term outcomes of native students. I combine unique survey and administrative data from the Netherlands covering one million students across three decades. My identification strategy relies on idiosyncratic variation in the share of international students within university programs over time. I find that exposure to international students leads native students to <i>(i)</i> form more social ties with non-natives, <i>(ii)</i> hold more positive attitudes towards migration and learning about other cultures, and <i>(iii)</i> seek opportunities abroad. Notably, I find precisely estimated zero effects on employment, income, entrepreneurship, and the share of foreign-born co-workers up to 25 years after university entry. These findings suggest that exposure to international students makes natives more culturally open and internationally oriented, without compromising their local economic success.
+        </p>
+      </div>
+    </li>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Awards: <a href="https://www.espe.org/news" style="color: black;">Best Paper Award</a>, Annual Conference of the European Society for Population Economics; <a href="https://www.ifo.de/en/cesifo/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" style="color: black;">Best Paper Award</a>, CESifo/ifo Junior Workshop on the Economics of Education</li>
