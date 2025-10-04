@@ -109,7 +109,7 @@ author_profile: true
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Textbook Contribution</h2>
 <div style="padding-left: 0;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
-<a href="https://id.hse.ru/books/1040796649.html">Translation into Russian: Models Based on Panel Data</a>
+<a href="https://id.hse.ru/books/1040796649.html">Models Based on Panel Data: Translation into Russian</a>
   </h3>
   <p style="margin-bottom: 0;"><i><b>A Guide to Modern Econometrics</b></i>, by Marno Verbeek</p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
