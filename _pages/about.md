@@ -22,5 +22,6 @@ You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">s
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
   <li><a href="https://sbe.maastrichtuniversity.nl/neuroeconomics/brownbag-seminar/" target="_blank">Interdisciplinary Brown Bag Seminar of Behavioral Sciences</a>, 23 October, Maastricht, the Netherlands</li>
+  <li><a href="https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists" target="_blank">Applied Young Economists Workshop (AYEW) on Education Economics</a>, 19 November, online</li>
   <li><a href="https://sites.google.com/view/the-economics-of-migration/seminar-schedule" target="_blank">The Economics of Migration Junior Webinar</a>, 25 November, online</li>
 </ul>
