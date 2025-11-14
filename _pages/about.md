@@ -8,13 +8,16 @@ redirect_from:
 ---
 
 <p align="justify">  
-I am a PhD candidate in Economics at the University of Amsterdam. I am an empirical microeconomist with research interests in health economics and the economics of education. My advisors are <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a> and <a href="https://sites.google.com/view/basvanderklaauw/home" style="color: black;">Bas van der Klaauw</a>. 
+My name is Stanislav Avdeev. I am a PhD candidate in Economics at the University of Amsterdam and an empirical microeconomist with broad interests in human capital, particularly in education and health. My research focuses on discrimination and diversity in higher education and healthcare. I study how institutional environments shape unequal treatment of women and migrants, and how exposure to diversity influences the outcomes of native populations.
 </p>
-<p align="justify">  
-My work focuses on discrimination and diversity in the public sector, particularly in higher education and healthcare. Using administrative and survey data from the Netherlands and Norway, I employ quasi-experimental methods to examine how institutions contribute to unequal treatment of women and migrants, and how exposure to diversity influences native populations. 
+<p align="justify"
+In my work, I use large-scale administrative and survey data from the Netherlands and Norway, combined with quasi-experimental applied econometric methods. My research has received support from national and international funding bodies, including the European Association for International Education, and has been recognized with multiple best paper awards at international conferences, such as the Annual Conference of the European Society for Population Economics and the CESifo/ifo Junior Workshop on the Economics of Education.
+</p>
+<p align="justify"
+I am committed to open science and to improving econometrics training in causal inference. I teach causal inference and applied econometrics at universities and in the private sector, and my teaching has been recognized with the best teaching assistant award. I also develop open-access econometrics materials on GitHub and contributed to the Russian translation of Marno Verbeek’s A Guide to Modern Econometrics to make high-quality methodological training more accessible.
 </p>
 <p align="justify">
-You can reach me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
+You can reach me for research and teaching collaborations at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
 </p>
 <h2 style="margin-top: 30px; font-weight: normal; text-align: left;">
   <strong>Upcoming talks</strong> (reach out if you're around and want to grab a coffee/beer)
