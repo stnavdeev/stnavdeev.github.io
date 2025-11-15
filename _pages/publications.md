@@ -117,7 +117,7 @@ author_profile: true
       Abstract: <a href="#" id="toggleAbstractPPButton4" onclick="toggleVisibility('abstractPPContent4','toggleAbstractPPButton4'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="abstractPPContent4" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
-          This is the Russian translation of the 5th edition of the econometrics textbook <i>A Guide to Modern Econometrics</i> by Marno Verbeek. The translation makes advanced econometric methods accessible to Russian-speaking students and researchers, supporting econometrics training in graduate programs and professional courses. I contributed as translator of Chapter 10, <i>Models Based on Panel Data</i>.
+          This is the translation of the 5th edition of the textbook "A Guide to Modern Econometrics" by Marno Verbeek into Russian. The translation makes advanced econometric methods accessible to Russian-speaking students and researchers, supporting econometrics training in graduate programs and professional courses. I contributed as translator of Chapter 10, <i>Models Based on Panel Data</i>.
         </p>
       </div>
     </li>
