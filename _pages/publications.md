@@ -45,6 +45,7 @@ author_profile: true
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Researcher_Variation.pdf">The Sources of Researcher Variation in Economics</a>
   </h3>
+  <p style="margin-bottom: 0;"><i><b>Journal of Economic Literature</b> (Revise and Resubmit)</i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
