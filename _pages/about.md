@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">  
-My name is Stanislav Avdeev. I am a PhD candidate in Economics at the University of Amsterdam and an empirical microeconomist studying human capital, with a focus on education and health. In my research, I examine discrimination and diversity in higher education and healthcare, investigating how institutional settings contribute to unequal treatment of women and migrants and how exposure to diversity affects native populations.
+My name is Stanislav Avdeev. I am a PhD candidate in Economics at the University of Amsterdam. I am an empirical microeconomist studying human capital, with a focus on education and health. In my research, I examine discrimination and diversity in higher education and healthcare, investigating how institutional settings contribute to unequal treatment of women and migrants and how exposure to diversity affects native populations.
 </p>
 <p align="justify">
 In addition to my academic research, I also contribute to policy work at the Amsterdam Health and Technology Institute, where I use causal inference and applied econometric methods to address healthcare challenges and support evidence-based decision-making.
