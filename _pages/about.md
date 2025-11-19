@@ -27,6 +27,5 @@ If you are interested in research or teaching collaborations, feel free to conta
 </h2>
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li><a href="https://www.monash.edu/business/impact-labs/soda-labs/our-events/applied-young-economists" target="_blank">Applied Young Economists Workshop (AYEW) on Education Economics</a>, 19 November, online</li>
   <li><a href="https://sites.google.com/view/the-economics-of-migration/seminar-schedule" target="_blank">The Economics of Migration Junior Webinar</a>, 25 November, online</li>
 </ul>
