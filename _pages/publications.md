@@ -46,8 +46,8 @@ author_profile: true
 <p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Revise and Resubmit)</i></p>
 <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent6','toggleAbstractButton6'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractContent6" style="display: none; margin-top: 5px; margin-left: 0;">
+      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent7','toggleAbstractButton7'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractContent7" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           This paper provides the first evidence on the impact of exposure to international students on the long-term outcomes of native students. I combine unique survey and administrative data from the Netherlands covering one million students across three decades and employ an across-cohort design. I find that exposure to international students leads natives to <i>(i)</i> form social ties with non-natives, <i>(ii)</i> hold more positive attitudes towards migration and learning about other cultures, and <i>(iii)</i> seek opportunities abroad. Notably, I find precisely estimated zero effects on employment, income, entrepreneurship, and the share of international co-workers up to 25 years after university entry.
         </p>
@@ -103,6 +103,9 @@ author_profile: true
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Doctor Quality and Patient Outcomes</h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Co-author:
+        <a href="https://sites.google.com/site/riisejulie" style="color: black;">Julie Riise</a></li>
+    </ul>
       <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">Research Grant</a>, Principal Investigator, A Sustainable Future Initiative</li>
     </ul>
   </div>
