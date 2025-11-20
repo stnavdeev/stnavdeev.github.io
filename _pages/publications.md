@@ -105,7 +105,6 @@ author_profile: true
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Co-author:
         <a href="https://sites.google.com/site/riisejulie" style="color: black;">Julie Riise</a></li>
-    </ul>
       <li>Grant: <a href="https://asf.uva.nl/grants/overview-funded-grants-since-2019/funded-grant-applications---spring-2023/spring-2023.html#The-consequences-of-overdiagnosis-and-underdiagnosis-for-health-and-work-S-Avdeev" style="color: black;">Research Grant</a>, Principal Investigator, A Sustainable Future Initiative</li>
     </ul>
   </div>
