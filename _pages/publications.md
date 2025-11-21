@@ -43,7 +43,7 @@ author_profile: true
 <div style="padding-left: 0px;"> 
 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">University as a Melting Pot: Long-term Effects of Internationalization</h3>
-<p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Revise and Resubmit)</i></p>
+<p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Conditionally Accepted)</i></p>
 <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent7','toggleAbstractButton7'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
