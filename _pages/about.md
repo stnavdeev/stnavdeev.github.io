@@ -17,9 +17,6 @@ In addition to my academic research, I also contribute to policy work. I support
 In my work, I combine large-scale administrative and survey data from the Netherlands and Norway with quasi-experimental methods. My research has been supported by research grants from national and international organizations, including the European Association for International Education, and has been recognized with best paper awards at international conferences, such as those organized by the European Society for Population Economics and CESifo/ifo research network.
 </p>
 <p align="justify">
-I am committed to open science and to improving econometrics training in causal inference. I teach causal inference and applied econometrics at universities and in the private sector, and my teaching has been recognized with a teaching award. In addition to my teaching activities, I developed open-access econometrics materials in R on GitHub, contributed to the translation of the textbook "A Guide to Modern Econometrics" by Marno Verbeek into Russian, and served as a jury member at the Econometric Game. 
-</p>
-<p align="justify">
 If you are interested in research or teaching collaborations, feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
 </p>
 <h2 style="margin-top: 30px; font-weight: normal; text-align: left;">
