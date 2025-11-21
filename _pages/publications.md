@@ -41,8 +41,9 @@ author_profile: true
 <!-- Working Papers Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
-
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">University as a Melting Pot: Long-term Effects of Internationalization</h3>
+ <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://stnavdeev.github.io/Avdeev_International_Students_Paper.pdf">University as a Melting Pot: Long-term Effects of Internationalization</a>
+  </h3>
 <p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Conditionally Accepted)</i></p>
 <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
