@@ -27,7 +27,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162278" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-family-and-neighbors-influence-what-you-study/id1811001985?i=1000705162278" style="color: black;">Apple</a>
     </li>
     <li>
       Media:
@@ -61,7 +61,7 @@ author_profile: true
       <li>Grant: <a href="https://www.eaie.org/resource/driving-the-future-of-international-education.html" style="color: black;">Research Grant</a>, Principal Investigator, European Association for International Education</li>
           <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/3Ggv5E3bDaglCWW7hkjZBC?si=04c2c0f0e99d4404" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162278" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/3Ggv5E3bDaglCWW7hkjZBC?si=04c2c0f0e99d4404" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-international-students-shape-locals-lives-long/id1811001985?i=1000737908318" style="color: black;">Apple</a>
     </li>
     </ul>
   </div>
@@ -89,7 +89,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162382" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/why-different-researchers-get-different-results/id1811001985?i=1000705162382" style="color: black;">Apple</a>
     </li>
       <li>
         Media:
@@ -148,7 +148,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162318" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-the-bologna-reform-changed-study-and-work-in-russia/id1811001985?i=1000705162318" style="color: black;">Apple</a>
     </li>
       <li>
         Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
@@ -169,6 +169,10 @@ author_profile: true
           Although geographical distance has become less relevant in co–authorship for monodisciplinary fields such as economics, mathematics, and physics, little is known about international collaboration in multidisciplinary fields such as higher education. This paper studies collaboration patterns in higher education research using the Scopus database with the application of the gravity model. The results show that the intensity of collaboration is negatively associated with geographical distance and positively associated with linguistic commonality but these findings differ significantly between various world regions. European scholars appear to give preference to linguistically proximate partners over geographical neighbours. Although English is the lingua franca in science, language is not a significant factor for the formation of collaboration for North American and Asian researchers. These findings have policy implications for fostering multidisciplinary research in international partnerships.
         </p>
       </div>
+    </li>
+    <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=13bb552c53f847ca" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-geography-and-language-shape-international/id1811001985?i=1000705162180" style="color: black;">Apple</a>
     </li>
   </ul>
 </div>
