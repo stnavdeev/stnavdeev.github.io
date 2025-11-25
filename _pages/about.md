@@ -19,10 +19,3 @@ In my work, I combine large-scale administrative and survey data from the Nether
 <p align="justify">
 If you are interested in research or teaching collaborations, feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
 </p>
-<h2 style="margin-top: 30px; font-weight: normal; text-align: left;">
-  <strong>Upcoming talks</strong> 
-</h2>
-
-<ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li><a href="https://sites.google.com/view/the-economics-of-migration/seminar-schedule" target="_blank">The Economics of Migration Junior Webinar</a>, 25 November, online</li>
-</ul>
