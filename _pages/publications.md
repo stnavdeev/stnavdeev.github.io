@@ -85,7 +85,7 @@ author_profile: true
       <li>
         Co-authors:
         <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, 
-        <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, and 148 others
+        <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.
       </li>
       <li>
       Podcast:
