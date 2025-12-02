@@ -27,7 +27,7 @@ I am committed to open science and to improving econometrics training in causal 
   <li>Economics of Education (bachelor-level)</li>
 </ul>
 
-<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Textbook Contribution</h2>
+<h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Textbook Contribution</h2>
 <div style="padding-left: 0;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
 <a href="https://id.hse.ru/books/1040796649.html">Models Based on Panel Data: Translation into Russian</a>
