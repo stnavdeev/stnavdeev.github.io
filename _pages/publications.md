@@ -47,7 +47,7 @@ author_profile: true
 <p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Conditionally Accepted)</i></p>
 <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent7','toggleAbstractButton7'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      Abstract: <a href="#" id="toggleAbstractButton7" onclick="toggleVisibility('abstractContent7','toggleAbstractButton7'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="abstractContent7" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           This paper provides the first evidence on the impact of exposure to international students on the long-term outcomes of native students. I combine unique survey and administrative data from the Netherlands covering one million students across three decades and employ an across-cohort design. I find that exposure to international students leads natives to <i>(i)</i> form social ties with non-natives, <i>(ii)</i> hold more positive attitudes towards migration and learning about other cultures, and <i>(iii)</i> seek opportunities abroad. Notably, I find precisely estimated zero effects on employment, income, entrepreneurship, and the share of international co-workers up to 25 years after university entry.
