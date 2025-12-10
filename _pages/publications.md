@@ -32,7 +32,7 @@ author_profile: true
     <li>
       Media:
       <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>, 
-      <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;">Amsterdam School of Economics</a>
+      <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;">ASE</a>
     </li>
   </ul>
 </div>
