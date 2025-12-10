@@ -59,6 +59,7 @@ author_profile: true
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Awards: <a href="https://www.espe.org/news" style="color: black;">Best Paper Award</a>, Annual Conference of the European Society for Population Economics; <a href="https://www.ifo.de/en/cesifo/event/2025-05-12/cesifo-ifo-junior-workshop-economics-education-2025" style="color: black;">Best Paper Award</a>, CESifo/ifo Junior Workshop on the Economics of Education</li>
       <li>Grant: <a href="https://www.eaie.org/resource/driving-the-future-of-international-education.html" style="color: black;">Research Grant</a>, Principal Investigator, European Association for International Education</li>
+      <li>Media: <a href="https://www.eaie.org/resource/next-generation-research-on-internationalisation-part-1.html" style="color: black;">EAIE</a></li>
           <li>
       Podcast:
       <a href="https://open.spotify.com/episode/3Ggv5E3bDaglCWW7hkjZBC?si=04c2c0f0e99d4404" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-international-students-shape-locals-lives-long/id1811001985?i=1000737908318" style="color: black;">Apple</a>
