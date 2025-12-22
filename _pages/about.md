@@ -19,3 +19,11 @@ In my work, I combine large-scale administrative and survey data from the Nether
 <p align="justify">
 If you are interested in research or teaching collaborations, feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
 </p>
+<h2 style="margin-top: 30px; font-weight: normal; text-align: left;">
+  <strong>Upcoming talks</strong> 
+</h2>
+
+<ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
+  <li><a href="https://docs.google.com/spreadsheets/d/1wGIQPnqIEQkiupWEc0t0tkkEyHI8ndEdkuNp-LQFFL8/edit?gid=0#gid=0" target="_blank">Workshop on the Micro and Macro Perspectives of the Labor Market</a>, 31 January, online</li>
+  <li><a href="https://sites.google.com/view/phd-evs2020/home" target="_blank">PhD Economics Virtual Seminar Series</a>, 6 February, online</li>
+</ul>
