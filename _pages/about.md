@@ -25,5 +25,5 @@ If you are interested in research or teaching collaborations, feel free to conta
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
   <li><a href="https://docs.google.com/spreadsheets/d/1wGIQPnqIEQkiupWEc0t0tkkEyHI8ndEdkuNp-LQFFL8/edit?gid=0#gid=0" target="_blank">Workshop on the Micro and Macro Perspectives of the Labor Market</a>, 31 January, online</li>
-  <li><a href="https://sites.google.com/view/phd-evs2020/home" target="_blank">PhD Economics Virtual Seminar Series</a>, 6 February, online</li>
+  <li><a href="https://sites.google.com/view/phd-evs2020/home" target="_blank">PhD Economics Virtual Seminar Series</a>, 5 February, online</li>
 </ul>
