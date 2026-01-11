@@ -14,7 +14,7 @@ My name is Stanislav Avdeev. I am a PhD candidate in Economics at the University
 I combine large-scale administrative and survey data from the Netherlands and Norway with quasi-experimental methods. My work has been supported by research grants, recognised with best paper awards, and published in leading journals, including American Economic Journal: Applied Economics and the Journal of Public Economics.
 </p>
 <p align="justify">
-In addition to my academic research, I contribute to policy work. I support evidence-based decision-making in healthcare in the Netherlands as a data analyst at the Amsterdam Health and Technology Institute, and I contribute to education policy as an expert reviewer for UNESCO's Global Education Monitoring Report.
+In addition to academic research, I contribute to policy work. I support evidence-based decision-making in healthcare in the Netherlands as a data analyst at the Amsterdam Health and Technology Institute and contribute to education policy as an expert reviewer for UNESCO’s Global Education Monitoring Report.
 </p>
 <p align="justify">
 If you are interested in research or teaching collaborations, feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
