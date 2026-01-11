@@ -11,7 +11,7 @@ redirect_from:
 My name is Stanislav Avdeev. I am a PhD candidate in Economics at the University of Amsterdam and an empirical microeconomist studying human capital, with a focus on education and health. My research examines discrimination and diversity in higher education and healthcare, analysing how institutional settings contribute to unequal treatment of women and migrants and how exposure to diversity affects native populations.
 </p>
 <p align="justify">
-I combine large-scale administrative and survey data from the Netherlands and Norway with quasi-experimental methods. My work has been supported by research grants, recognized with best paper awards, and published in leading journals, including American Economic Journal: Applied Economics and the Journal of Public Economics.
+I combine large-scale administrative and survey data from the Netherlands and Norway with quasi-experimental methods. My work has been supported by research grants, recognised with best paper awards, and published in leading journals, including American Economic Journal: Applied Economics and the Journal of Public Economics.
 </p>
 <p align="justify">
 In addition to my academic research, I contribute to policy work. I support evidence-based decision-making in healthcare in the Netherlands as a data analyst at the Amsterdam Health and Technology Institute, and I contribute to education policy as an expert reviewer for UNESCO's Global Education Monitoring Report.
