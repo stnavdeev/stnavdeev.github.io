@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <p align="justify">  
-I am committed to open science and to improving econometrics training in causal inference. I teach causal inference and applied econometrics at universities and in the private sector, and my teaching has been recognized with a teaching award. In addition to my teaching activities, I developed open-access econometrics materials in R on GitHub, contributed to the translation of the textbook "A Guide to Modern Econometrics" by Marno Verbeek into Russian, and served as a jury member at the Econometric Game. 
+I am committed to open science and to improving econometrics training in causal inference. I teach causal inference and applied econometrics in academic and private-sector settings, and my teaching has been recognized with a teaching award. I have also developed open-access econometrics materials in R on GitHub, contributed to the Russian translation of "A Guide to Modern Econometrics" by Marno Verbeek, and served as a jury member at the Econometric Game. 
 </p>
 
 
