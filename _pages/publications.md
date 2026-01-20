@@ -124,6 +124,14 @@ author_profile: true
 </div>
 
 
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Policy Research</h2>
+<div style="padding-left: 0px;"> 
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Gender Inequality in Healthcare: Chronic Disease Care in Focus</h3>
+  
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Understanding HIV Care in the Netherlands: A Pragmatic Cost Perspective</h3>
+</div>
+
+
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Pre-PhD Publications</h2>
 <div style="padding-left: 0;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
