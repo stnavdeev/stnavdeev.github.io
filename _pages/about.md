@@ -14,7 +14,7 @@ My name is Stanislav Avdeev, and I am a PhD candidate in Economics at the Univer
 My work has been published in the American Economic Journal: Applied Economics and the Journal of Public Economics, among others. I have received research funding from the European Association for International Education and the Sustainable Future Initiative, and my research has been recognised with best paper awards at the Conference of the European Society for Population Economics and the CESifo/ifo Junior Workshop on the Economics of Education.
 </p>
 <p align="justify">
-In addition to academic research, I contribute to policy-oriented research. I support evidence-based decision-making in healthcare in the Netherlands as a data analyst at the Amsterdam Health and Technology Institute and contribute to education policy as an expert reviewer for UNESCO’s Global Education Monitoring Report.
+In addition to academic research, I contribute to policy-oriented research. I support evidence-based decision-making in healthcare in the Netherlands at the Amsterdam Health and Technology Institute and contribute to education policy as an expert reviewer for UNESCO’s Global Education Monitoring Report.
 </p>
 <p align="justify">
 If you are interested in research or teaching collaborations, feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
