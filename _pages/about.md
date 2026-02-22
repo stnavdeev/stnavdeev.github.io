@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">  
-My name is Stanislav Avdeev, and I am a PhD candidate in Economics at the University of Amsterdam. My research combines large-scale administrative and survey data from the Netherlands and Norway with quasi-experimental methods to study discrimination and diversity in higher education and healthcare. I examine how institutional settings contribute to unequal treatment of women and migrants, and how exposure to diversity affects native populations.
+My name is Stanislav Avdeev, and I am a PhD candidate in Economics at the University of Amsterdam. My research combines large-scale administrative and survey data from the Netherlands and Norway with quasi-experimental methods to study discrimination and diversity in higher education and healthcare.
 </p>
 <p align="justify">
 My work has been published in the American Economic Journal: Applied Economics and the Journal of Public Economics, among others. I have received research funding from the European Association for International Education and the Sustainable Future Initiative, and my research has been recognised with best paper awards at the Conference of the European Society for Population Economics and the CESifo/ifo Junior Workshop on the Economics of Education.
