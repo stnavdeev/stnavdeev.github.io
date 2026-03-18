@@ -28,7 +28,7 @@ author_profile: true
       Podcast:
       <a href="https://open.spotify.com/episode/3Ggv5E3bDaglCWW7hkjZBC?si=04c2c0f0e99d4404" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-international-students-shape-locals-lives-long/id1811001985?i=1000737908318" style="color: black;">Apple</a>
     </li>
-      <li>Media: <a href="https://www.trouw.nl/onderwijs/contact-met-internationals-maakt-de-nederlandse-student-toleranter-blijkt-uit-onderzoek~b18fe7c4/" style="color: black;">Trouw</a>, <a href="https://www.folia.nl/en/wetenschap/170295/how-dutch-students-are-influenced-by-their-international-peers" style="color: black;">Folia</a>, <a href="https://www.eaie.org/resource/next-generation-research-on-internationalisation-part-1.html" style="color: black;">EAIE</a>, <a href="https://www.linkedin.com/posts/university-of-amsterdam_uva-sciencesunday-internationals-activity-7428679455939858433-ORro?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADq5LVcBwfrsSuqBcISFYr5ftJDVaUZ75Uk" style="color: black;">Science Sunday</a></li>
+      <li>Media coverage: <a href="https://www.trouw.nl/onderwijs/contact-met-internationals-maakt-de-nederlandse-student-toleranter-blijkt-uit-onderzoek~b18fe7c4/" style="color: black;">Trouw</a>, <a href="https://esb.nu/internationale-studenten/" style="color: black;">ESB</a>, <a href="https://www.folia.nl/en/wetenschap/170295/how-dutch-students-are-influenced-by-their-international-peers" style="color: black;">Folia</a>, <a href="https://dutchreview.com/news/international-students-benefit-dutch-students-higher-education-study/" style="color: black;">DutchReview</a>, <a href="https://www.eaie.org/resource/next-generation-research-on-internationalisation-part-1.html" style="color: black;">EAIE</a>, <a href="https://www.linkedin.com/posts/university-of-amsterdam_uva-sciencesunday-internationals-activity-7428679455939858433-ORro?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADq5LVcBwfrsSuqBcISFYr5ftJDVaUZ75Uk" style="color: black;">Science Sunday</a></li>
     </ul>
   </div>
     <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
@@ -55,7 +55,7 @@ author_profile: true
       <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-family-and-neighbors-influence-what-you-study/id1811001985?i=1000705162278" style="color: black;">Apple</a>
     </li>
     <li>
-      Media:
+      Media coverage:
       <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>, 
       <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;">ASE</a>
     </li>
@@ -141,7 +141,7 @@ author_profile: true
       <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/why-different-researchers-get-different-results/id1811001985?i=1000705162382" style="color: black;">Apple</a>
     </li>
       <li>
-        Media:
+        Media coverage:
         <a href="https://causalinf.substack.com/p/many-analyst-designs-data-preparation" style="color: black;">Scott’s Substack</a>
       </li>
     </ul>
