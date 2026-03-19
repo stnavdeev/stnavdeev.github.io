@@ -85,7 +85,7 @@ author_profile: true
       <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-the-bologna-reform-changed-study-and-work-in-russia/id1811001985?i=1000705162318" style="color: black;">Apple</a>
     </li>
       <li>
-        Media: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
+        Media coverage: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
       </li>
     </ul>
   </div>
