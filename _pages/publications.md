@@ -9,7 +9,7 @@ author_profile: true
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
       <a href="https://stnavdeev.github.io/Avdeev_International_Students_Paper.pdf">University as a Melting Pot: Long-term Effects of Internationalization</a>
   </h3>
-<p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Accepted)</i></p>
+<p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Forthcoming)</i></p>
 <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractButton7" onclick="toggleVisibility('abstractContent7','toggleAbstractButton7'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
