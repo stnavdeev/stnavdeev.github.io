@@ -24,7 +24,6 @@ If you are interested in research or teaching collaborations, feel free to conta
 </h2>
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-    <li><a href="https://tinbergen.nl/tinbergen-institute-conference" target="_blank">Science for Society Conference</a>, 9 April, Amsterdam, the Netherlands</li>
   <li><a href="https://www.eaie.org/events/glasgow.html" target="_blank">European Association for International Education Conference</a>, 8-11 September, Glasgow, United Kingdom</li>
   
 </ul>
