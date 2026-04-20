@@ -22,6 +22,12 @@ I am committed to open science and to improving econometrics training in causal 
   <li>Economics (bachelor-level)</li>
 </ul>
 
+<h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Vrije Universiteit Amsterdam</h2>
+<ul style="margin-top: 7.5px; margin-left: 0; padding-left: 20px;">
+    <li>Health Economics (master-level)</li>
+</ul>
+
+
 <h2 style="margin-top: 30px; font-weight: bold; text-align: left;">Higher School of Economics</h2>
 <ul style="margin-top: 7.5px; margin-left: 0; padding-left: 20px;">
   <li>Economics of Education (bachelor-level)</li>
