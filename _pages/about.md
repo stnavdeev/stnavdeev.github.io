@@ -11,7 +11,7 @@ redirect_from:
 My name is Stanislav Avdeev, and I am a PhD Candidate in Economics at the University of Amsterdam. My research examines discrimination and diversity in higher education and healthcare using large-scale administrative and survey data from the Netherlands and Norway, combined with quasi-experimental methods.
 </p>
 <p align="justify">
-In June-July 2026, I will visit the University of Zurich as a visiting researcher, hosted by Ulf Zölitz.
+In June-July 2026, I will be a visiting researcher at the University of Zurich, hosted by Ulf Zölitz.
 </p>
 <p align="justify">
 My work has been published in leading academic journals, including the American Economic Journal: Applied Economics and the Journal of Public Economics. I have received research funding from the European Association for International Education and the Sustainable Future Initiative, and my work has been recognised with best paper awards at the European Society for Population Economics Conference and the CESifo/ifo Junior Workshop on the Economics of Education.
