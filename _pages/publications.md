@@ -115,7 +115,17 @@ author_profile: true
 <!-- Working Papers Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
- <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Revise and Resubmit)</i></p>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Co-author:
+        <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
+      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
+    </ul>
+  </div>
+  
+ <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Researcher_Variation.pdf">The Sources of Researcher Variation in Economics</a>
   </h3>
   <p style="margin-bottom: 0;"><i><b>Journal of Economic Literature</b> (Revise and Resubmit)</i></p>
@@ -152,14 +162,8 @@ author_profile: true
 <!-- Work in Progress Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0px;"> 
-  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Welfare Consequences of Preventable Chronic Disease</h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Co-author:
-        <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
-      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
-    </ul>
-  </div>
 </div>
 
 
