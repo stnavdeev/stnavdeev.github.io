@@ -115,7 +115,7 @@ author_profile: true
 <!-- Working Papers Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
-    <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
+     <a href="https://stnavdeev.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
   <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Conditionally Accepted)</i></p>
     <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
