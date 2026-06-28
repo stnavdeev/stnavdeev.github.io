@@ -116,7 +116,7 @@ author_profile: true
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
     <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
-  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Revise and Resubmit)</i></p>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Conditionally Accepted)</i></p>
     <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractWPButton_conflict" onclick="toggleVisibility('abstractWPContent_conflict','toggleAbstractWPButton_conflict'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
