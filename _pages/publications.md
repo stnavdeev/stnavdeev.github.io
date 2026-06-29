@@ -25,6 +25,10 @@ author_profile: true
       <li>Co-author:
         <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
       <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
+                        <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/0HJ5w3QAL8FAQlv5zQIHhT?si=pPUwCukIQe2f-xQsZ1vC6g" style="color: black;">Spotify</a>, <a href="https://podcastsconnect.apple.com/my-podcasts/show/papers-to-podcast/0fb41a2f-1ccb-4d5b-9f8c-abb3814d1b72/episodes" style="color: black;">Apple</a>
+    </li>
     </ul>
   </div>
   
