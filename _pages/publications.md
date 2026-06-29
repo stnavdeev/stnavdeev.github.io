@@ -27,7 +27,7 @@ author_profile: true
       <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
                         <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/0HJ5w3QAL8FAQlv5zQIHhT?si=pPUwCukIQe2f-xQsZ1vC6g" style="color: black;">Spotify</a>, <a href="https://podcastsconnect.apple.com/my-podcasts/show/papers-to-podcast/0fb41a2f-1ccb-4d5b-9f8c-abb3814d1b72/episodes" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/0HJ5w3QAL8FAQlv5zQIHhT?si=pPUwCukIQe2f-xQsZ1vC6g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000774699634" style="color: black;">Apple</a>
     </li>
     </ul>
   </div>
@@ -52,7 +52,7 @@ author_profile: true
       <li>Grant: <a href="https://www.eaie.org/resource/driving-the-future-of-international-education.html" style="color: black;">Research Grant</a>, Principal Investigator, European Association for International Education</li>
                 <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/3Ggv5E3bDaglCWW7hkjZBC?si=04c2c0f0e99d4404" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-international-students-shape-locals-lives-long/id1811001985?i=1000737908318" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/3Ggv5E3bDaglCWW7hkjZBC?si=04c2c0f0e99d4404" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000737908318" style="color: black;">Apple</a>
     </li>
       <li>Media coverage: <a href="https://www.trouw.nl/onderwijs/contact-met-internationals-maakt-de-nederlandse-student-toleranter-blijkt-uit-onderzoek~b18fe7c4/" style="color: black;">Trouw</a>, <a href="https://esb.nu/internationale-studenten/" style="color: black;">ESB</a>, <a href="https://www.folia.nl/en/wetenschap/170295/how-dutch-students-are-influenced-by-their-international-peers" style="color: black;">Folia</a>, <a href="https://dutchreview.com/news/international-students-benefit-dutch-students-higher-education-study/" style="color: black;">DutchReview</a>, <a href="https://www.linkedin.com/posts/university-of-amsterdam_uva-sciencesunday-internationals-activity-7428679455939858433-ORro?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADq5LVcBwfrsSuqBcISFYr5ftJDVaUZ75Uk" style="color: black;">Science Sunday</a>, <a href="https://www.eaie.org/resource/next-generation-research-on-internationalisation-part-1.html" style="color: black;">EAIE</a>, <a href="https://www.thepolicyscientist.com/post/does-exposure-to-international-students-shape-the-long-term-outcomes-of-students" style="color: black;">The Policy Scientist</a></li>
     </ul>
@@ -78,7 +78,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-family-and-neighbors-influence-what-you-study/id1811001985?i=1000705162278" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162278" style="color: black;">Apple</a>
     </li>
     <li>
       Media coverage:
@@ -108,7 +108,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-the-bologna-reform-changed-study-and-work-in-russia/id1811001985?i=1000705162318" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162318" style="color: black;">Apple</a>
     </li>
       <li>
         Media coverage: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
@@ -132,7 +132,7 @@ author_profile: true
     </li>
     <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=13bb552c53f847ca" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/how-geography-and-language-shape-international/id1811001985?i=1000705162180" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=13bb552c53f847ca" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162180" style="color: black;">Apple</a>
     </li>
   </ul>
 </div>
@@ -164,7 +164,7 @@ author_profile: true
       </li>
       <li>
       Podcast:
-      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/why-different-researchers-get-different-results/id1811001985?i=1000705162382" style="color: black;">Apple</a>
+      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162382" style="color: black;">Apple</a>
     </li>
       <li>
         Media coverage:
