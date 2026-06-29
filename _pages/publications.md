@@ -6,7 +6,29 @@ author_profile: true
 
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
 <div style="padding-left: 0;"> 
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+    <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+     <a href="https://stnavdeev.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
+        </h3>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Conditionally Accepted)</i></p>
+    <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractWPButton_conflict" onclick="toggleVisibility('abstractWPContent_conflict','toggleAbstractWPButton_conflict'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractWPContent_conflict" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          International trade depends on the expectation that courts will protect commercial interests when disputes arise. With the growing number of international conflicts, it is crucial to know whether this expectation is met in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. We show that courts increasingly justified refusals through discretionary legal grounds and undue-notification claims. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and compliance with commercial treaties.
+        </p>
+      </div>
+    </li>
+  </ul>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Co-author:
+        <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
+      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
+    </ul>
+  </div>
+  
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
       <a href="https://stnavdeev.github.io/Avdeev_International_Students_Paper.pdf">University as a Melting Pot: Long-term Effects of Internationalization</a>
   </h3>
 <p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Forthcoming)</i></p>
@@ -115,28 +137,6 @@ author_profile: true
 <!-- Working Papers Section -->
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
 <div style="padding-left: 0px;"> 
-    <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
-     <a href="https://stnavdeev.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
-        </h3>
-  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Conditionally Accepted)</i></p>
-    <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractWPButton_conflict" onclick="toggleVisibility('abstractWPContent_conflict','toggleAbstractWPButton_conflict'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractWPContent_conflict" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
-          International trade depends on the expectation that courts will protect commercial interests when disputes arise. With the growing number of international conflicts, it is crucial to know whether this expectation is met in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. We show that courts increasingly justified refusals through discretionary legal grounds and undue-notification claims. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and compliance with commercial treaties.
-        </p>
-      </div>
-    </li>
-  </ul>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Co-author:
-        <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
-      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
-    </ul>
-  </div>
-  
  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://stnavdeev.github.io/Researcher_Variation.pdf">The Sources of Researcher Variation in Economics</a>
   </h3>
