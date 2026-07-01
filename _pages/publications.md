@@ -9,7 +9,7 @@ author_profile: true
     <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
      <a href="https://stnavdeev.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
         </h3>
-  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Conditionally Accepted)</i></p>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Accepted)</i></p>
     <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractWPButton_conflict" onclick="toggleVisibility('abstractWPContent_conflict','toggleAbstractWPButton_conflict'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
