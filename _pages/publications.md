@@ -185,6 +185,8 @@ Disagreement among researchers is a central and productive feature of scientific
 
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Policy Research</h2>
 <div style="padding-left: 0px;"> 
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Uncovering Inequities in the Cardiovascular Disease Care Cascade</h3>
+  
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Care in the Last 1000 Days of Life</h3>
   
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Understanding HIV Care in the Netherlands: A Pragmatic Cost Perspective</h3>
