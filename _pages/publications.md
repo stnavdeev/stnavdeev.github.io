@@ -7,32 +7,6 @@ author_profile: true
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
 <div style="padding-left: 0;"> 
     <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
-     <a href="https://stnavdeev.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
-        </h3>
-  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Accepted)</i></p>
-    <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractWPButton_conflict" onclick="toggleVisibility('abstractWPContent_conflict','toggleAbstractWPButton_conflict'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractWPContent_conflict" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
-          International trade depends on the expectation that courts will protect commercial interests when disputes arise. With the growing number of international conflicts, it is crucial to know whether this expectation is met in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. We show that courts increasingly justified refusals through discretionary legal grounds and undue-notification claims. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and compliance with commercial treaties.
-        </p>
-      </div>
-    </li>
-  </ul>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Co-author:
-        <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
-      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
-                        <li>
-      Podcast:
-      <a href="https://open.spotify.com/episode/0HJ5w3QAL8FAQlv5zQIHhT?si=pPUwCukIQe2f-xQsZ1vC6g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000774699634" style="color: black;">Apple</a>
-    </li>
-    </ul>
-  </div>
-  
-  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
       <a href="https://stnavdeev.github.io/Avdeev_International_Students_Paper.pdf">University as a Melting Pot: Long-term Effects of Internationalization</a>
   </h3>
 <p style="margin-bottom: 0;"><i><b>American Economic Journal: Applied Economics</b> (Forthcoming)</i></p>
@@ -55,6 +29,31 @@ author_profile: true
       <a href="https://open.spotify.com/episode/3Ggv5E3bDaglCWW7hkjZBC?si=04c2c0f0e99d4404" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000737908318" style="color: black;">Apple</a>
     </li>
       <li>Media coverage: <a href="https://www.trouw.nl/onderwijs/contact-met-internationals-maakt-de-nederlandse-student-toleranter-blijkt-uit-onderzoek~b18fe7c4/" style="color: black;">Trouw</a>, <a href="https://esb.nu/internationale-studenten/" style="color: black;">ESB</a>, <a href="https://www.folia.nl/en/wetenschap/170295/how-dutch-students-are-influenced-by-their-international-peers" style="color: black;">Folia</a>, <a href="https://dutchreview.com/news/international-students-benefit-dutch-students-higher-education-study/" style="color: black;">DutchReview</a>, <a href="https://www.linkedin.com/posts/university-of-amsterdam_uva-sciencesunday-internationals-activity-7428679455939858433-ORro?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADq5LVcBwfrsSuqBcISFYr5ftJDVaUZ75Uk" style="color: black;">Science Sunday</a>, <a href="https://www.eaie.org/resource/next-generation-research-on-internationalisation-part-1.html" style="color: black;">EAIE</a>, <a href="https://www.thepolicyscientist.com/post/does-exposure-to-international-students-shape-the-long-term-outcomes-of-students" style="color: black;">The Policy Scientist</a></li>
+    </ul>
+  </div>
+  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
+       <a href="https://stnavdeev.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
+        </h3>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b></i></p>
+    <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractWPButton_conflict" onclick="toggleVisibility('abstractWPContent_conflict','toggleAbstractWPButton_conflict'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractWPContent_conflict" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          International trade depends on the expectation that courts will protect commercial interests when disputes arise. With the growing number of international conflicts, it is crucial to know whether this expectation is met in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. We show that courts increasingly justified refusals through discretionary legal grounds and undue-notification claims. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and compliance with commercial treaties.
+        </p>
+      </div>
+    </li>
+  </ul>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Co-author:
+        <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
+      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
+                        <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/0HJ5w3QAL8FAQlv5zQIHhT?si=pPUwCukIQe2f-xQsZ1vC6g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000774699634" style="color: black;">Apple</a>
+    </li>
     </ul>
   </div>
     <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
