@@ -220,7 +220,7 @@ Disagreement among researchers is a central and productive feature of scientific
     </li>
   </ul>
 
-  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Gender Inequality in Healthcare: Chronic Disease Care in Focus</h3>
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Men and Women in Healthcare: Differences in Focus</h3>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractPolicy4" onclick="toggleVisibility('abstractPolicy4','toggleAbstractPolicy4'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
