@@ -31,6 +31,37 @@ author_profile: true
       <li>Media coverage: <a href="https://www.trouw.nl/onderwijs/contact-met-internationals-maakt-de-nederlandse-student-toleranter-blijkt-uit-onderzoek~b18fe7c4/" style="color: black;">Trouw</a>, <a href="https://esb.nu/internationale-studenten/" style="color: black;">ESB</a>, <a href="https://www.folia.nl/en/wetenschap/170295/how-dutch-students-are-influenced-by-their-international-peers" style="color: black;">Folia</a>, <a href="https://dutchreview.com/news/international-students-benefit-dutch-students-higher-education-study/" style="color: black;">DutchReview</a>, <a href="https://www.linkedin.com/posts/university-of-amsterdam_uva-sciencesunday-internationals-activity-7428679455939858433-ORro?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADq5LVcBwfrsSuqBcISFYr5ftJDVaUZ75Uk" style="color: black;">Science Sunday</a>, <a href="https://www.eaie.org/resource/next-generation-research-on-internationalisation-part-1.html" style="color: black;">EAIE</a>, <a href="https://www.thepolicyscientist.com/post/does-exposure-to-international-students-shape-the-long-term-outcomes-of-students" style="color: black;">The Policy Scientist</a></li>
     </ul>
   </div>
+<h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
+    <a href="https://stnavdeev.github.io/Researcher_Variation.pdf">The Sources of Researcher Variation in Economics</a>
+  </h3>
+  <p style="margin-bottom: 0;"><i><b>Journal of Economic Literature</b> (Forthcoming)</i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">       
+Disagreement among researchers is a central and productive feature of scientific progress. However, researchers’ discretionary choices, some of which are not easily observable, may cause standard errors to understate uncertainty. This paper synthesizes evidence on how researcher variation shapes empirical conclusions and presents new evidence on its sources and implications. We also report results from a many-analyst study in which 146 research teams estimate the same causal effect under varying constraints. Although central estimates are broadly aligned, dispersion remains substantial. Imposing a shared research design reduced agreement, partly due to adherence errors. Further restricting data cleaning and preparation improved agreement. Variation across researchers is often comparable in magnitude to sampling uncertainty but is unevenly distributed across stages of the research process. Overall, the evidence suggests that conventional uncertainty summaries understate total uncertainty and that less visible research decisions warrant greater scrutiny. 
+        </p>
+      </div>
+    </li>
+  </ul>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>
+        Co-authors:
+        <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, 
+        <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.
+      </li>
+      <li>
+      Podcast:
+      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162382" style="color: black;">Apple</a>
+    </li>
+      <li>
+        Media coverage:
+        <a href="https://causalinf.substack.com/p/many-analyst-designs-data-preparation" style="color: black;">Scott’s Substack</a>
+      </li>
+    </ul>
+  </div>
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
        <a href="https://stnavdeev.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
         </h3>
@@ -134,43 +165,6 @@ author_profile: true
       <a href="https://open.spotify.com/episode/7ruOkFZhuyAijzc1gS8SMH?si=13bb552c53f847ca" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162180" style="color: black;">Apple</a>
     </li>
   </ul>
-</div>
-
-
-<!-- Working Papers Section -->
-<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
-<div style="padding-left: 0px;"> 
- <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://stnavdeev.github.io/Researcher_Variation.pdf">The Sources of Researcher Variation in Economics</a>
-  </h3>
-  <p style="margin-bottom: 0;"><i><b>Journal of Economic Literature</b> (Accepted)</i></p>
-  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">       
-Disagreement among researchers is a central and productive feature of scientific progress. However, researchers’ discretionary choices, some of which are not easily observable, may cause standard errors to understate uncertainty. This paper synthesizes evidence on how researcher variation shapes empirical conclusions and presents new evidence on its sources and implications. We also report results from a many-analyst study in which 146 research teams estimate the same causal effect under varying constraints. Although central estimates are broadly aligned, dispersion remains substantial. Imposing a shared research design reduced agreement, partly due to adherence errors. Further restricting data cleaning and preparation improved agreement. Variation across researchers is often comparable in magnitude to sampling uncertainty but is unevenly distributed across stages of the research process. Overall, the evidence suggests that conventional uncertainty summaries understate total uncertainty and that less visible research decisions warrant greater scrutiny. 
-        </p>
-      </div>
-    </li>
-  </ul>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>
-        Co-authors:
-        <a href="https://www.nickchk.com" style="color: black;">Nick Huntington-Klein</a>, 
-        <a href="http://clausportner.com" style="color: black;">Claus C. Pörtner</a>, et al.
-      </li>
-      <li>
-      Podcast:
-      <a href="https://open.spotify.com/episode/5tS6VTmnsSRYI1R5P5tfQx?si=iBqxLnQ6QIGT9Bn8lZhs1g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162382" style="color: black;">Apple</a>
-    </li>
-      <li>
-        Media coverage:
-        <a href="https://causalinf.substack.com/p/many-analyst-designs-data-preparation" style="color: black;">Scott’s Substack</a>
-      </li>
-    </ul>
-  </div>
 </div>
 
 
