@@ -1,12 +1,11 @@
 {% include base_path %}
 
-<!-- Apply the saved/system theme before the page paints. -->
+<!-- Apply the saved theme before the page paints; new visitors start in light mode. -->
 <script>
   (function () {
     var savedTheme;
     try { savedTheme = localStorage.getItem("site-theme"); } catch (error) {}
-    var theme = savedTheme || (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-    document.documentElement.setAttribute("data-theme", theme);
+    document.documentElement.setAttribute("data-theme", savedTheme === "dark" ? "dark" : "light");
   }());
 </script>
 <link rel="stylesheet" href="{{ base_path }}/assets/css/theme.css">
