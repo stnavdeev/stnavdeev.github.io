@@ -94,27 +94,16 @@ html[data-theme="dark"] hr {
   border-color: #3d4650;
 }
 
-html[data-theme="dark"] a,
-html[data-theme="dark"] .greedy-nav a,
-html[data-theme="dark"] .author__urls a,
-html[data-theme="dark"] .toc__menu a {
-  color: #8bc9ff;
-}
-
+/* Keep the existing link and accent palette; adjust only black inline links for contrast. */
 html[data-theme="dark"] .page__content a[style*="color: black"] {
-  color: #8bc9ff !important;
+  color: #e7eaee !important;
 }
 
 html[data-theme="dark"] .greedy-nav .hidden-links a:hover,
 html[data-theme="dark"] .toc__menu a:hover {
   background: #222a32;
-  color: #dceeff;
 }
 
 html[data-theme="dark"] .author__avatar img {
   border-color: #596573;
-}
-
-html[data-theme="dark"] h3[style*="color: #b80057"] {
-  color: #ff89bc !important;
 }
