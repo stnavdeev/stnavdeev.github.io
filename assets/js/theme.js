@@ -3,16 +3,13 @@
 
   var storageKey = "site-theme";
   var root = document.documentElement;
-  var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)");
 
   function preferredTheme() {
-    var savedTheme = null;
     try {
-      savedTheme = window.localStorage.getItem(storageKey);
+      return window.localStorage.getItem(storageKey) === "dark" ? "dark" : "light";
     } catch (error) {
-      // Storage can be unavailable in private browsing modes.
+      return "light";
     }
-    return savedTheme || (prefersDark && prefersDark.matches ? "dark" : "light");
   }
 
   function applyTheme(theme, savePreference) {
