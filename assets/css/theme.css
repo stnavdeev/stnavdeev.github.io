@@ -11,8 +11,20 @@ html[data-theme="dark"] {
   color-scheme: dark;
 }
 
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.masthead__menu {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
 .theme-toggle {
   display: inline-flex;
+  flex: 0 0 auto;
   align-items: center;
   justify-content: center;
   min-width: 2.75rem;
@@ -41,21 +53,6 @@ html[data-theme="dark"] {
 }
 
 @media (max-width: 37.5em) {
-  .masthead__inner-wrap {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-  }
-
-  .masthead__menu {
-    min-width: 0;
-    flex: 1 1 auto;
-  }
-
-  .theme-toggle {
-    flex: 0 0 auto;
-  }
-
   .author__avatar {
     display: block;
     width: 100%;
