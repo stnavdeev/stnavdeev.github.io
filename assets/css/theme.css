@@ -8,29 +8,29 @@ html[data-theme="dark"] {
   color-scheme: dark;
 }
 
-.masthead__inner-wrap {
-  position: relative;
-  padding-right: 4.5rem;
+.greedy-nav .visible-links .masthead__theme-toggle {
+  display: table-cell;
+  padding-left: 0.35rem;
+  vertical-align: middle;
 }
 
-.theme-toggle {
-  position: absolute;
-  top: 50%;
-  right: 1rem;
-  z-index: 30;
+.greedy-nav .visible-links .theme-toggle {
+  position: static;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 2.75rem;
-  min-height: 2.5rem;
-  padding: 0.4rem 0.7rem;
+  width: 2.35rem;
+  min-width: 2.35rem;
+  height: 2.35rem;
+  min-height: 2.35rem;
+  padding: 0;
   border: 1px solid #767676;
   border-radius: 999px;
   background: transparent;
   color: inherit;
   font: inherit;
   cursor: pointer;
-  transform: translateY(-50%);
+  transform: none;
 }
 
 .theme-toggle:hover {
