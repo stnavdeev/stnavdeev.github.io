@@ -80,7 +80,7 @@ Disagreement among researchers is a central and productive feature of scientific
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>Co-author:
         <a href="https://dshchetinin.com" style="color: black;">Dmitrii Shchetinin</a></li>
-      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
+      <li>Awards: <a href="https://stnavdeev.com/research/" style="color: black;">Best PhD Research Prize</a> on Repression, Surveillance, and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar</a>, Italian Society of Law and Economics; <a href="https://www.linkedin.com/posts/andrea-bjorklund-17a0123_we-are-pleased-to-announce-the-winners-of-share-7233120841054474240-pmoh/" style="color: black;">Honourable Mention</a>, Nappert Prize in International Arbitration</li>
                         <li>
       Podcast:
       <a href="https://open.spotify.com/episode/0HJ5w3QAL8FAQlv5zQIHhT?si=pPUwCukIQe2f-xQsZ1vC6g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000774699634" style="color: black;">Apple</a>
@@ -141,7 +141,7 @@ Disagreement among researchers is a central and productive feature of scientific
       <a href="https://open.spotify.com/episode/1a9kFm20GTLZJo5cKRCv6Q?si=j0ksDIU8RXqqJQVnpWJUdA" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162318" style="color: black;">Apple</a>
     </li>
       <li>
-        Media coverage: <a href="https://iq.hse.ru/en/news/480499696.html" style="color: black;">IQ.hse</a>
+        Media coverage: <a href="https://iq-media.ru/archive/471163755.html" style="color: black;">IQ.hse</a>, <a href="https://www.dk.ru/all/news/237151438" style="color: black;">DK</a>
       </li>
     </ul>
   </div>
