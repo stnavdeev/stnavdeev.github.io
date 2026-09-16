@@ -8,14 +8,11 @@ html[data-theme="dark"] {
   color-scheme: dark;
 }
 
-.greedy-nav .visible-links .masthead__theme-toggle {
-  display: table-cell;
-  padding-left: 0.35rem;
-  vertical-align: middle;
-}
-
-.greedy-nav .visible-links .theme-toggle {
-  position: static;
+.masthead > .theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: max(1rem, calc((100% - 1280px) / 2 + 1rem));
+  z-index: 30;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -30,7 +27,7 @@ html[data-theme="dark"] {
   color: inherit;
   font: inherit;
   cursor: pointer;
-  transform: none;
+  transform: translateY(-50%);
 }
 
 .theme-toggle:hover {
