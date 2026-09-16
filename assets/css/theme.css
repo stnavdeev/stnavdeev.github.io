@@ -44,33 +44,6 @@ html[data-theme="dark"] {
   line-height: 1;
 }
 
-@media (max-width: 37.5em) {
-  .author__avatar {
-    display: block;
-    width: 100%;
-    margin: 0 auto 1rem;
-    text-align: center;
-  }
-
-  .author__avatar img {
-    width: min(72vw, 300px);
-    max-width: none;
-    margin: 0 auto;
-    border-radius: 50%;
-  }
-
-  .author__content {
-    display: block;
-    padding-right: 0;
-    text-align: center;
-  }
-
-  .author__urls-wrapper {
-    display: block;
-    text-align: center;
-  }
-}
-
 html[data-theme="dark"] body,
 html[data-theme="dark"] .masthead,
 html[data-theme="dark"] .greedy-nav,
