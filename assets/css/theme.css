@@ -1,8 +1,5 @@
 /* Theme preference and accessibility enhancements */
-:root {
-  color-scheme: light dark;
-}
-
+:root,
 html[data-theme="light"] {
   color-scheme: light;
 }
@@ -12,19 +9,16 @@ html[data-theme="dark"] {
 }
 
 .masthead__inner-wrap {
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-}
-
-.masthead__menu {
-  min-width: 0;
-  flex: 1 1 auto;
+  position: relative;
+  padding-right: 4.5rem;
 }
 
 .theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 1rem;
+  z-index: 30;
   display: inline-flex;
-  flex: 0 0 auto;
   align-items: center;
   justify-content: center;
   min-width: 2.75rem;
@@ -36,6 +30,7 @@ html[data-theme="dark"] {
   color: inherit;
   font: inherit;
   cursor: pointer;
+  transform: translateY(-50%);
 }
 
 .theme-toggle:hover {
