@@ -24,6 +24,6 @@ If you are interested in research or teaching collaborations, feel free to conta
 </h2>
 
 <ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li><a href="https://www.eaie.org/events/glasgow.html" target="_blank">European Association for International Education Conference</a>, 8-11 September, Glasgow, United Kingdom</li>
+  <li><a href="https://esb.nu/nederlandse-economendag-2026/" target="_blank">The Dutch Economists' Day</a>, 23 October, the Hague, the Netherlands</li>
   
 </ul>
