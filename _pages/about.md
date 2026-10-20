@@ -17,7 +17,7 @@ My academic work has been published in, among others, American Economic Journal:
 In addition to my academic work, I lead policy evaluation research at the Amsterdam Health and Technology Institute, an independent research institute focused on healthcare policy and evidence-based decision-making. I also serve as an expert reviewer for UNESCO’s Global Education Monitoring Report.
 </p>
 <p align="justify">
-If you are interested in research or teaching collaborations, feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
+Feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
 </p>
 <h2 style="margin-top: 30px; font-weight: normal; text-align: left;">
   <strong>Upcoming talks</strong> 
