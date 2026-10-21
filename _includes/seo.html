@@ -9,7 +9,7 @@
 {% case page.url %}
   {% when "/" %}
     {% assign seo_page_title = "Stanislav Avdeev | PhD Candidate in Economics" %}
-    {% assign seo_description = "Stanislav Avdeev is a PhD Candidate in Economics at the University of Amsterdam. His research examines discrimination and diversity in higher education and healthcare." %}
+    {% assign seo_description = "Stanislav Avdeev is a PhD candidate in economics at the University of Amsterdam (UvA). He studied and taught at the Tinbergen Institute and researches education and healthcare." %}
   {% when "/research/" %}
     {% assign seo_page_title = "Research | Stanislav Avdeev" %}
     {% assign seo_description = "Research and publications by Stanislav Avdeev, an empirical microeconomist studying higher education, healthcare, discrimination, and diversity." %}
@@ -63,7 +63,12 @@
   "jobTitle": "PhD Candidate in Economics",
   "affiliation": {
     "@type": "CollegeOrUniversity",
-    "name": "University of Amsterdam"
+    "name": "University of Amsterdam",
+    "alternateName": "UvA"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Tinbergen Institute"
   },
   "sameAs": [
     "https://scholar.google.com/citations?hl=en&user=x3DcAjcAAAAJ&view_op=list_works&gmla=AJsN-F4DdDk33CNdv33Jn7owyyj1VmjJmvi2Nu-IeYa953bnWwBKG8viZ7BUUfKKH6PjgnYaWdqY0cnHhPjKBEPDfybuJqzTZk-bR19WHwFDCTRVqPjZCNg",
