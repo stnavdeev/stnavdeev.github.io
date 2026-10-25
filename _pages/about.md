@@ -19,11 +19,4 @@ In addition to my academic work, I lead policy evaluation research at the Amster
 <p align="justify">
 Feel free to contact me at <a href="mailto:stnavdeev@gmail.com" style="color: black;">stnavdeev@gmail.com</a>
 </p>
-<h2 style="margin-top: 30px; font-weight: normal; text-align: left;">
-  <strong>Upcoming talks</strong> 
-</h2>
 
-<ul style="margin-top: 7.5px; margin-left: 0px; padding-left: 20px;">
-  <li><a href="https://esb.nu/nederlandse-economendag-2026/" target="_blank">The Dutch Economists' Day</a>, 23 October, the Hague, the Netherlands</li>
-  
-</ul>
