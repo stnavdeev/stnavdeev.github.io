@@ -229,7 +229,7 @@ Disagreement among researchers is a central and productive feature of scientific
 
 
 <!-- Book Chapters and Reports Section -->
-<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Book Chapters and Reports</h2>
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Book Chapters</h2>
 <div style="padding-left: 0;">
 
 <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Trends in Costs of HIV Therapy and Care</h3>
@@ -246,9 +246,16 @@ Disagreement among researchers is a central and productive feature of scientific
         </p>
       </div>
     </li>
-    <li>
-      Co-authors: Danielle Ratsma, Vita Jongen, Jan den Hollander, Judith Branger, Rosan van Zoest, Michiel Heidenrijk, and Marc van der Valk
-    </li>
+<li>
+  Co-authors:
+  <a href="https://nl.linkedin.com/in/danielle-ratsma-70872688" style="color: black;">Danielle Ratsma</a>,
+  <a href="https://orcid.org/0000-0001-9538-1501" style="color: black;">Vita Jongen</a>,
+  <a href="https://pure.eur.nl/en/persons/jan-c-den-hollander/" style="color: black;">Jan den Hollander</a>,
+  <a href="https://flevoziekenhuis.nl/zorgverleners/j-branger/" style="color: black;">Judith Branger</a>,
+  <a href="https://nl.linkedin.com/in/rosan-van-zoest-7708b0a7" style="color: black;">Rosan van Zoest</a>,
+  <a href="https://nl.linkedin.com/in/michiel-heidenrijk-8a0503a1" style="color: black;">Michiel Heidenrijk</a>, and
+  <a href="https://www.amsterdamumc.org/en/research/researchers/marc-van-der-valk" style="color: black;">Marc van der Valk</a>
+</li>
   </ul>
 
 </div>
