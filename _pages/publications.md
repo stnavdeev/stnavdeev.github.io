@@ -228,6 +228,31 @@ Disagreement among researchers is a central and productive feature of scientific
 </div>
 
 
+<!-- Book Chapters and Reports Section -->
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Book Chapters and Reports</h2>
+<div style="padding-left: 0;">
+
+<h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Trends in Costs of HIV Therapy and Care</h3>
+  <p style="margin-bottom: 0;">
+    <i><b>HIV Monitoring Report</b> (Forthcoming)</i>
+  </p>
+
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractHIVReport" onclick="toggleVisibility('abstractHIVReport','toggleAbstractHIVReport'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractHIVReport" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          This chapter examines the costs of HIV therapy and care in the Netherlands using linked administrative data, healthcare claims, and clinical records. We document how HIV-specific healthcare costs evolved between 2016 and 2024 and estimate the causal effect of an HIV diagnosis on healthcare spending using a difference-in-differences design. We find that inflation-adjusted HIV-specific healthcare costs declined by 24.6% in total and 35.6% per person, driven mainly by falling antiretroviral treatment costs. Nevertheless, an HIV diagnosis increases annual healthcare spending by an estimated €13,177 per person on average over the first seven years after diagnosis. Additional medical specialist costs around diagnosis are substantially higher for people diagnosed at a very late stage, highlighting the economic importance of prevention and early detection.
+        </p>
+      </div>
+    </li>
+    <li>
+      Co-authors: Danielle Ratsma, Vita Jongen, Jan den Hollander, Judith Branger, Rosan van Zoest, Michiel Heidenrijk, and Marc van der Valk
+    </li>
+  </ul>
+
+</div>
+
 <!-- Generic JavaScript Function for Toggle -->
 <script>
   function toggleVisibility(contentId, linkId) {
