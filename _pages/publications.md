@@ -204,7 +204,7 @@ Disagreement among researchers is a central and productive feature of scientific
   Policy impact:
   Provided the empirical basis for the
   <a href="https://www.raadrvs.nl/adviezen/d/de-laatste-1000-dagen" style="color: black;">Dutch Council for Public Health and Society (RVS)</a>
-  national policy advisory report on appropriate healthcare in the last 1,000 days of life.
+  national policy advisory report on appropriate healthcare in the last 1,000 days of life
 </li>
   </ul>
 
