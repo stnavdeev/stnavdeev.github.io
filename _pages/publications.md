@@ -200,6 +200,12 @@ Disagreement among researchers is a central and productive feature of scientific
         </p>
       </div>
     </li>
+<li>
+  Policy impact:
+  Provided the empirical basis for the
+  <a href="https://www.raadrvs.nl/adviezen/d/de-laatste-1000-dagen" style="color: black;">Dutch Council for Public Health and Society (RVS)</a>
+  national policy advisory report on appropriate healthcare in the last 1,000 days of life.
+</li>
   </ul>
 
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Understanding HIV Care in the Netherlands: A Pragmatic Cost Perspective</h3>
