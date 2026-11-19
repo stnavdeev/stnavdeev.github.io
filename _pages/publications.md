@@ -241,7 +241,7 @@ Disagreement among researchers is a central and productive feature of scientific
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Book Chapters</h2>
 <div style="padding-left: 0;">
     <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://stnavdeev.github.io/SHM_report_2026.pdf">Trends in Costs of HIV Therapy and Care</a>
+    <a href="https://stnavdeev.github.io/SHM_report_2026.pdf">Trends in the Costs of HIV Therapy and Care</a>
   </h3>
   <p style="margin-bottom: 0;">
     <i><b>HIV Monitoring Report</b> (Forthcoming)</i>
