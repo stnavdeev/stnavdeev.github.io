@@ -207,7 +207,7 @@ Disagreement among researchers is a central and productive feature of scientific
     </li>
 <li>
   Policy impact: 
-    Provided the empirical analysis for the <a href="https://www.raadrvs.nl/adviezen/d/de-laatste-1000-dagen" style="color: black;">national policy advisory report on end-of-life care</a> by the Dutch Council for Public Health and Society (RVS) 
+    Provided the empirical analysis for the <a href="https://www.raadrvs.nl/adviezen/d/de-laatste-1000-dagen" style="color: black;">national policy advisory report</a> on end-of-life care by the Dutch Council for Public Health and Society (RVS) 
 </li>
   </ul>
 
