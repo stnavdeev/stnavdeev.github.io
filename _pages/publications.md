@@ -209,6 +209,7 @@ Disagreement among researchers is a central and productive feature of scientific
   Policy impact: 
     Provided the empirical analysis for the <a href="https://www.raadrvs.nl/adviezen/d/de-laatste-1000-dagen" style="color: black;">national policy advisory report</a> on end-of-life care by the Dutch Council for Public Health and Society (RVS) 
 </li>
+      <li>Media coverage: <a href="https://www.trouw.nl/gezondheid/bijna-een-kwart-van-de-ongeneeslijk-zieken-krijgt-in-de-laatste-fase-zorg-die-weinig-meer-oplevert~b905c72d/" style="color: black;">Trouw</a></li>
   </ul>
 
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Understanding HIV Care in the Netherlands: A Pragmatic Cost Perspective</h3>
@@ -244,7 +245,7 @@ Disagreement among researchers is a central and productive feature of scientific
     <a href="https://stnavdeev.github.io/SHM_report_2026.pdf">Trends in the Costs of HIV Therapy and Care</a>
   </h3>
   <p style="margin-bottom: 0;">
-    <i><b>HIV Monitoring Report</b> (Forthcoming)</i>
+    <i><b>HIV Monitoring Report</b></i>
   </p>
 
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
